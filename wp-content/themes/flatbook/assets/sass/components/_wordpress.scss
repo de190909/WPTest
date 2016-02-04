@@ -1,0 +1,75 @@
+/* --------------------------------------------------
+ ## COMPONENT: WORDPRESS
+-------------------------------------------------- */
+
+/* Contact Form 7 styles
+---------------------------- */
+.wpcf7-form {
+	.wpcf7-form-control-wrap { 
+		@extend .form-group; 
+	}
+
+	.wpcf7-form-control { 
+		@extend .form-control; 
+		&.wpcf7-textarea {
+			max-height: 235px;
+		}
+	}
+
+	.wpcf7-submit { 
+		@extend .btn, .btn-primary; 
+		display: block;
+		margin: 25px auto 0;
+		max-width: 300px;
+		width: auto;
+	}	
+	.ajax-loader, br { display: none; }
+	@include breakpoint(xs) { padding: 0 25px; }
+}
+
+
+/* Wordpress classes
+---------------------------- */
+.entry-content img { margin: 0 0 1.5em 0; }
+
+.alignleft, img.alignleft { margin-right: 1.5em; display: inline; float: left; }
+
+.alignright, img.alignright { margin-left: 1.5em; display: inline; float: right; }
+
+.aligncenter, img.aligncenter { margin-right: auto; margin-left: auto; display: block; clear: both; }
+
+.wp-caption { margin-bottom: 1.5em; text-align: center; padding-top: 5px; }
+
+.wp-caption img { border: 0 none; padding: 0; margin: 0; }
+
+.wp-caption p.wp-caption-text { line-height: 1.5; font-size: 10px; margin: 0; }
+
+.wp-smiley { margin: 0 !important; max-height: 1em; }
+
+.gallery dl { visibility: visible; }
+
+.gallery dt { visibility: visible; }
+
+.gallery dd { visibility: visible; }
+
+.gallery dl a { visibility: visible; } 
+
+.gallery dl img { visibility: visible; }
+
+.gallery-caption { visibility: visible; }
+
+.size-full { visibility: visible; }
+
+.size-large { visibility: visible; }
+
+.size-medium { visibility: visible; }
+
+.size-thumbnail { visibility: visible; }
+
+.sticky { visibility: visible; }
+
+.bypostauthor { visibility: visible; }
+
+.screen-reader-text { clip: rect(1px, 1px, 1px, 1px); position: absolute !important; height: 1px; width: 1px; overflow: hidden; }
+
+.screen-reader-text:focus { background-color: #f1f1f1; border-radius: 3px; box-shadow: 0 0 2px 2px rgba(0, 0, 0, 0.6); clip: auto !important; color: #21759b; display: block; font-size: 14px; font-size: 0.875rem; font-weight: bold; height: auto; left: 5px; line-height: normal; padding: 15px 23px 14px; text-decoration: none; top: 5px; width: auto; z-index: 100000; }

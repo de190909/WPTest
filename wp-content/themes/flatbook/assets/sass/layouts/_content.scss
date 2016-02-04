@@ -1,0 +1,103 @@
+/* --------------------------------------------------
+ ## LAYOUT: CONTENT
+-------------------------------------------------- */
+
+/* Main content
+---------------------------- */
+#site-content {
+	overflow: hidden;
+	position: relative;
+	z-index: 10;
+}
+
+.parallax {
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-position: center top;
+	background-size: cover;
+	-webkit-background-size: cover;	
+}
+
+.error404 #error-content {
+	position: fixed;
+	height: 1px;
+	top: 33%;
+	width: 100%;
+}
+
+/* Section spacings
+---------------------------- */
+section, .section {
+	padding: $padding-section-base 0;
+	overflow: hidden;
+	&.padding-lg { padding: $padding-section-large 0; }
+	&.padding-sm { padding: $padding-section-small 0; }
+	&.padding-xs { padding: $padding-section-tiny  0; }
+	.section-header {
+		text-align: center;
+		position: relative;
+		margin: 0 0 $padding-section-small;
+		.section-title { 
+			@extend .h1;
+			font-weight: 400;
+			margin: 0;
+		}
+		.section-lead {
+			font-size: $font-size-large;
+			color: $text-muted;
+		}
+		.divider {
+			border-top: 1px solid #ddd;
+			position: relative;
+			margin: $padding-section-tiny 0;
+			> i {
+				font-size: 24px;
+				height: 1px;
+				line-height: 1px;
+				margin-left: -25px;
+				position: absolute;
+				top: -1px;
+				width: 50px;		
+			}				
+		}
+	}
+	.section-before {
+		@extend .row;
+		display: block;
+		padding-bottom: $padding-section-tiny;
+		p.lead {
+			padding: 0 15%;
+			@include breakpoint(xxs) { padding: 0 5%; }
+		}
+	}
+	.section-content {
+		@extend .row;
+		display: block;
+		padding: $padding-section-tiny 0;		
+	}
+	.section-after {
+		@extend .row;
+		display: block;
+		padding-top: $padding-section-tiny;
+	}
+	@include breakpoint(xs) { 
+		padding-top: 50px !important; 
+		padding-bottom: 50px !important; 
+	}	
+}
+
+/* Google map section
+---------------------------- */
+.google-map {
+	width: 100%;
+	min-height: 200px;
+	height: 400px;
+}
+
+/* Dropdown section
+---------------------------- */
+.section-dropdown {
+	@include breakpoint(xs) {
+		button { margin-top: 15px; }
+	}
+}

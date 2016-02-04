@@ -1,0 +1,23 @@
+/* --------------------------------------------------
+ ## COMPONENT: OVERVIEWS
+-------------------------------------------------- */
+
+.section-overviews {
+	.overview-item {
+		margin: 0;
+		> .title { margin-top: 20px; }
+		> p {
+			@include breakpoint(sm) {
+				font-size: $font-size-small;
+			}
+		}
+		.thumbnail {
+			width: 100%;
+			max-width: 100%;
+			padding: 0;
+		}
+		@include breakpoint(sm) { padding: 3%; }
+		@include breakpoint(xs) { padding: 8%; }
+		@include breakpoint(xxs) { padding: 8%; }
+	}
+} 

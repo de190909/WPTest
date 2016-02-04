@@ -1,0 +1,29 @@
+/* --------------------------------------------------
+ ## COMPONENT: AUTHOR
+-------------------------------------------------- */
+
+.section-author {
+	.author-image {
+		> img { @include scale(1.5); } 
+	}
+	.author-desc {
+		position: relative;
+		z-index: 2;
+	}
+	.author-photo {
+		> img { 
+			position: relative;
+			margin-bottom: -$padding-section-tiny;
+			@include breakpoint(sm) { top: 112px; }
+			@include breakpoint(xs) { margin: 0 auto; }
+		}
+	}	
+	.author-signature {
+		@extend .img-responsive, .hidden-sm;
+		@include breakpoint(xs) { margin: 0 auto; }
+	}
+	.section-content {
+		@include breakpoint(md) { padding-bottom: 0; }
+	}
+	@include breakpoint(xs) { text-align: center; }
+}

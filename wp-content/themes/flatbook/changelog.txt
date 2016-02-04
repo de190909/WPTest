@@ -1,0 +1,119 @@
+Version: 2.0.1
+
+FLATBOOK WORDPRESS CHANGELOG
+=================================
+
+Version 1.0.0 (2013.11.13)
+---------------------------------
+- INITIAL RELEASE
+
+Version 1.0.1 (2013.11.22)
+---------------------------------
+- FIXED: Overlapping section issue
+
+Version 1.1.0 (2013.11.27)
+---------------------------------
+- ADDED: MailChimp Integration
+- ADDED: 300+ Google Fonts
+
+Version 1.2.0 (2013.12.22)
+---------------------------------
+- ADDED: Contact Form 7 Integration
+- ADDED: 2 Menu layout: visible / hidden
+- FIXED: Some minor css bugs
+
+Version 1.2.1 (2014.05.22)
+---------------------------------
+- FIXED: Blog page navigation bug
+
+Version 1.3.0 (2014.06.01)
+---------------------------------
+- FIXED: Includes icon boxes with longer title issue
+- FIXED: Blog page navigation bug
+- FIXED: More than 2 video review bottom padding optimized
+- FIXED: Pricing table features line height optimized
+- FIXED: Some IE9 opacity related bug fixed
+- FIXED: Contact Form 7 shorter fields after validation bug fixed
+- FIXED: Includes icon boxes with unequal length content bug fixed
+- FIXED: Slider control arrows tablet portrait bug fixed
+- UPDATED: Slider control arrows updated from image to font-icon
+- UPDATED: Image without padding in tablet showcase now available
+- UPDATED: Slider height optimized for tablet portrait view
+- UPDATED: Theme documentation updated with more images
+- ADDED: Basic usual navigation menu option available
+- ADDED: Slider autoplay option with custom timing
+- ADDED: Retina support added with auto generating retina x2 images
+- ADDED: Navigation bar recolor with colorpicker option added
+- ADDED: Custom empty section with shortcodes for custom contents added
+- ADDED: Drag and drop home section ordering option added
+- ADDED: Slider touch swipe gestures support added
+
+Version 1.3.1 (2014.09.13)
+---------------------------------
+- UPDATED: FontAwesome 4.2 version, all 479 icons are available now
+- FIXED: Display of two-lined title selectors in 'Samples' section fixed
+- FIXED: 8+ 'Chapter Overviews' collapsing issue fixed
+- ADDED: Body font colorpicker option added to theme options
+- ADDED: Custom excerpts for 'Samples' title selectors option added
+
+Version 2.0.0 (2015.11.20)
+---------------------------------
+- ADDED: new Bootstrap 3 responsive grid (1140px wide) 
+- ADDED: new Underscores based theme framework
+- ADDED: Sass support (precompiled custom .scss files)
+- ADDED: Advanced Custom Fields ($25 value)
+- ADDED: live theme Customizer (with 100+ customizing options)
+- ADDED: custom Page Builder (6 Header layouts, 13 Content sections, 3 Footer layouts)
+- ADDED: multi-level navigation menu with dropdown support
+- ADDED: 2 importable demo content (demo-1, demo-2)
+- ADDED: new customizable blog features (Blog Page & Single Post)
+- ADDED: 5 new post formats (Image, Video, Link, Quote, Gallery)
+- ADDED: 2 widget areas (Blog Sidebar & Footer Widgets)
+- ADDED: Child theme support
+- ADDED: many new features and enhancements
+
+Version 2.0.1 (2015.12.01)
+---------------------------------
+- FIXED: alignment issues of the navigation bar on mobile sizes
+- FIXED: many noticed minor Css style relates bugs
+- ADDED: javascript fallback to remove the preloader (if there are js errors)
+- ADDED: specific class names to the sections (eg. author-section, pricing-section)
+- ADDED: a Custom Css section with code editor in the theme Customizer
+- UPDATED: theme demo datas with a few bugfixes (demo-1, demo-2)
+- UPDATED: to FontAwesome 4.5.0 version (now has 605+ vector icons)
+
+Version 2.0.2 (2015.12.04)
+---------------------------------
+- FIXED: contact form 7 submit button background-color bug
+- FIXED: many minor responsivity related css bug
+- FIXED: acf loading issue in child theme 
+- REMOVED: the unused assets folder of acf (inc/admin/assets)
+- UPDATED: Header background images parallax effect to css (for better compatibility)
+- UPDATED: nav menu scroll menu links walker
+- UPDATED: max item limits (feature items, video items, overview items, message items, contact items)
+- UPDATED: theme language file (languages/flatbook.po)
+- UPDATED: main theme and child theme screenshots
+- UPDATED: theme demo datas with a few bugfixes (demo-1, demo-2)
+- UPDATED: Overview Items textarea input field changed to full wysiwyg editor in Page Builder
+- ADDED: product image upload option to the pricing tables (Pricing Section)
+- ADDED: section header coloring options in the Customizer (section title / subtitle / icon)
+- ADDED: adjustable spacing of content sections option in the Customizer (section title / subtitle / icon)
+- ADDED: envato wordpress toolkit plugin for automatic theme updates
+
+Version 2.0.3 (2015.12.11)
+---------------------------------
+- FIXED: primary buttons coloring issue at focus and active states
+- FIXED: updated script file for tablet reader mockup to scroll on mobile devices either
+- FIXED: wordpress admin bar layout css issue on mobile sizes
+- FIXED: many responsivity related css bugs
+- UPDATED: wordpress 4.4 compatibility tested
+- UPDATED: Envato WordPress Toolkit and Widget Importer & Exporter redeclared as recommended plugins
+- UPDATED: default wordpress widgets extended (Archives widget, Categories widget, Recent Comments widget)
+- UPDATED: theme demo datas with a few bugfixes (demo-1, demo-2)
+- ADDED: new option for the Customizer what removes the navbar completely (Customizer > Layout > Navbar)
+- ADDED: new posts per page option for the Customizer added at (Customizer > Pages > Blog > Posts per page)
+
+Version 2.0.4 (2015.12.20)
+---------------------------------
+- FIXED: removed the typo mistaken "c" stray (from section-messages.php)
+- FIXED: font subsets option temporarly removed (Customizer > Typography > Fonts)

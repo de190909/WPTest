@@ -1,0 +1,128 @@
+/* --------------------------------------------------
+ ## LAYOUT: NAVBAR
+-------------------------------------------------- */
+
+/* Default navbar
+---------------------------- */
+.navbar {
+	border-width: 0;
+	@extend .navbar-default;
+	.navbar-toggle {
+		color: $text-white;
+		font-size: 24px;
+		border-width: 2px;
+		height: 40px;
+		line-height: 1;
+		margin: 20px 15px 0 0;
+		padding: 5px;
+		width: 40px;		
+		&:focus {
+			background-color: rgba($text-white,0.4);
+			border-color: transparent;
+			color: $brand-primary;
+		}
+		@include breakpoint(xxs) { margin: 9px 9px 0 0; }		
+	}
+	.navbar-nav {
+		> .active > a { background-color: rgba(0,0,0,0.1) !important; }
+		> li a { 
+			font-weight: $font-weight-bold;
+			padding-top: 0;
+			padding-bottom: 0; 
+		}
+		@include breakpoint(xs) {  }
+		@include breakpoint(xxs) {  }
+	}
+	.navbar-right:last-child {
+		margin-right: 0;
+	}
+	.navbar-collapse {
+		box-shadow: none;
+		@include breakpoint(xs) { 
+			text-align: center;
+			padding: 0 20px;
+			background-color: darken($bg-dark, 10%);
+			.navbar-right { 
+				margin: 0 !important;
+				padding: 20px 0; 
+			}
+			.active {
+				a, a:hover, a:focus {
+					background-color: $navbar-collapse-link-active-bg;
+				}
+			}		
+		}
+	}
+	.aligner {
+		@include vertical-align(middle);
+	}
+	@include breakpoint(xxs) { min-height: $navbar-height-small; }		
+}
+
+/* Navbar brand
+---------------------------- */
+.navbar-brand {
+	float: none;
+	padding: 0 15px;
+	height: $navbar-height;
+	@include vertical-align(middle);
+	@include breakpoint(xxs) { height: $navbar-height-small; }
+}
+
+/* Navbar tagline
+---------------------------- */
+.navbar-tagline {
+	@extend .hidden-sm, .hidden-xs, .hidden-xxs;
+	float: left;
+	.tagline {
+		color: $text-white;
+		font-size: $font-size-small;
+		height: $navbar-height;
+		@include vertical-align(middle);
+		@include opacity(0.7);		
+	}
+}
+
+/* Navbar dropdown item
+---------------------------- */
+.navbar-nav .dropdown {
+	.dropdown-menu {
+		font-size: $font-size-small;
+		border: 0;
+		left: 0;
+		right: auto;		
+		.divider { margin: 4px 0; }
+		.aligner { height: 40px !important; }
+	}
+	.dropdown-toggle {
+		i { font-size: $font-size-small; }
+		background-color: transparent !important;
+	}
+}
+
+/* Dropdown item fix
+---------------------------- */
+#site-navbar {
+	.aligner {
+		@include breakpoint(xs) { height: 40px !important; }
+	}
+}
+
+#site-navbar, .navbar-fixer {
+	@include breakpoint(xs) { height: 80px !important; }
+	@include breakpoint(xxs) { height: 60px !important; }	
+}
+
+/* Admin bar
+---------------------------- */
+.admin-bar {
+	margin-top: 32px;
+	.navbar-fixed-top {
+		top: 32px;
+		@include breakpoint(800) { top: 0; }
+	}
+	#wpadminbar {
+		@include breakpoint(800) { display: none; }
+	}
+	@include breakpoint(800) { margin-top: 0; }
+}

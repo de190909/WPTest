@@ -1,0 +1,152 @@
+/* --------------------------------------------------
+ ## LAYOUT: HEADER
+-------------------------------------------------- */
+
+/* Site header
+---------------------------- */
+#site-header {
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-position: center top;
+	background-size: cover;
+	-webkit-background-size: cover;
+}
+
+/* No header
+---------------------------- */
+header.no-header {
+	margin: $navbar-height 0 0;
+}
+
+/* Page header 
+---------------------------- */
+header.page-header {
+	padding-bottom: 0;
+	margin: 0;	
+	background-size: cover;
+	@include breakpoint(xs) { 
+		margin-top: 0;
+	}	
+}
+
+/* Header elems
+---------------------------- */
+header {
+	.ajax-loader { display: none; }
+	.header-content {
+		.header-title {
+			padding-top: 15%;
+			.highlight {
+				@include breakpoint(978) { 
+					display: table; 
+					margin: 5px auto; 
+				}				
+				@include breakpoint(xxs) { padding: 10px 14px; }			
+			}
+			@include breakpoint(lg) {
+				padding-top: 22%;			
+			}
+			@include breakpoint(sm) { padding-top: 7%; }
+			@include breakpoint(xs) {
+				padding-top: 5%;
+				font-size: $font-size-h2; 
+			}
+			@include breakpoint(xxs) { font-size: $font-size-h3; }
+		}
+	}
+	.header-image {
+		.header-model {
+			@include img-responsive();
+			max-width: 500px;
+			width: 100%;
+			margin: $padding-section-small auto 0;	
+			float: right;
+			@include breakpoint(978) {
+				float: none;
+			}		
+			@include breakpoint(xs) { 
+				float: none;
+				max-width: 460px;
+			}
+			@include breakpoint(xxs) { 
+				padding: 0 10%; 
+			}					
+		}
+	}
+	.header-panel {
+		.panel {
+			background: $btn-half-dark-bg;
+			border: 0 none;
+			border-radius: $border-radius-large;
+			margin-bottom: 0;
+			.panel-body {
+				padding: $padding-section-tiny;
+			}
+		}
+	}
+}
+
+/* Blog header 
+---------------------------- */
+header.blog-header {
+	@extend .page-header;	
+}
+
+/* Static header
+---------------------------- */
+header.static-header {
+	padding: $padding-section-large;
+	.header-title {
+		padding-top: 0;
+	}
+}
+
+/* Slider header
+---------------------------- */
+header.slider-header {
+	position: relative;
+	#slider-nav {
+		height: 0;
+		left: 0;
+		position: absolute;
+		top: 45%;
+		width: 100%;
+		.btn {
+			color: rgba($text-white, 0.5);
+			font-size: 25px;
+			&.prev { padding-left: 8%; }
+			&.next { padding-right: 8%; }
+			&:hover {
+				color: $text-white;
+			}
+		}
+	}
+	@include breakpoint(xs) { text-align: center; }
+	@include breakpoint(xxs) { margin-top: 0; }
+}
+
+/* Form header
+---------------------------- */
+header.form-header {
+	position: relative;
+	padding: $padding-section-large 0;
+	.header-title {
+		font-size: 70px;
+		line-height: 70px;
+		text-transform: uppercase;
+		letter-spacing: -3px;
+	}
+}
+
+/* Full header
+---------------------------- */
+header.full-header {
+	background-position: center bottom;
+	padding-bottom: $padding-section-small;
+	.header-content {
+		padding: $padding-section-small 0;
+	}
+	@include breakpoint(xxs) { 
+		margin-top: $navbar-height-small;
+	}	
+}

@@ -1,0 +1,24 @@
+/* --------------------------------------------------
+ ## COMPONENT: COUNTERS
+-------------------------------------------------- */
+
+.section-counters {
+	.counter-item {
+		text-align: center;
+		.counter-value {
+			@extend .h1;
+			font-size: 4em;
+			line-height: 1em;		
+			margin: 0;	
+		}
+		.counter-desc {
+			margin-bottom: 0;
+		}
+		@include breakpoint(xs) {
+			display: inline-block;
+			width: 50%;
+			margin-bottom: 20px;
+		}
+	
+	}
+}

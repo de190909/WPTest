@@ -1,0 +1,4460 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: FlatBook WordPress\n"
+"POT-Creation-Date: 2015-12-05 17:32+0100\n"
+"PO-Revision-Date: 2015-12-05 17:33+0100\n"
+"Last-Translator: \n"
+"Language-Team: ErikTailor\n"
+"Language: en_EN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.4\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: inc/admin/acf-pro/assets/js/acf-field-group.js:436
+#: inc/admin/acf-pro/assets/js/acf-field-group.min.js:1
+msgid "title_is_required"
+msgstr ""
+
+#: inc/admin/acf-pro/assets/js/acf-field-group.js:506
+#: inc/admin/acf-pro/assets/js/acf-field-group.min.js:1
+msgid "move_to_trash"
+msgstr ""
+
+#: inc/admin/acf-pro/assets/js/acf-field-group.js:858
+#: inc/admin/acf-pro/assets/js/acf-field-group.js:859
+#: inc/admin/acf-pro/assets/js/acf-field-group.min.js:1
+#: inc/admin/acf-pro/admin/field-group.php:180
+#: inc/admin/acf-pro/api/api-field-group.php:615
+msgid "copy"
+msgstr ""
+
+#: inc/admin/acf-pro/assets/js/acf-field-group.js:947
+#: inc/admin/acf-pro/assets/js/acf-field-group.min.js:1
+msgid "move_field_warning"
+msgstr ""
+
+#: inc/admin/acf-pro/assets/js/acf-field-group.js:955
+#: inc/admin/acf-pro/assets/js/acf-field-group.min.js:1
+msgid "move_field"
+msgstr ""
+
+#: inc/admin/acf-pro/assets/js/acf-field-group.js:1401
+#: inc/admin/acf-pro/assets/js/acf-field-group.min.js:1
+msgid "field_name_start"
+msgstr ""
+
+#: inc/admin/acf-pro/assets/js/acf-field-group.js:1630
+#: inc/admin/acf-pro/assets/js/acf-field-group.min.js:1
+msgid "sibling_fields"
+msgstr ""
+
+#: inc/admin/acf-pro/assets/js/acf-field-group.js:1630
+#: inc/admin/acf-pro/assets/js/acf-field-group.min.js:1
+msgid "parent_fields"
+msgstr ""
+
+#: inc/admin/acf-pro/assets/js/acf-field-group.js:1676
+#: inc/admin/acf-pro/assets/js/acf-field-group.min.js:1
+msgid "no_fields"
+msgstr ""
+
+#: inc/admin/acf-pro/assets/js/acf-field-group.js:1731
+#: inc/admin/acf-pro/assets/js/acf-field-group.min.js:1
+#: inc/admin/acf-pro/admin/field-group.php:177
+msgid "checked"
+msgstr ""
+
+#: inc/admin/acf-pro/assets/js/acf-field-group.js:1768
+#: inc/admin/acf-pro/assets/js/acf-field-group.min.js:1
+msgid "null"
+msgstr ""
+
+#: inc/admin/acf-pro/assets/js/acf-field-group.js:1937
+#: inc/admin/acf-pro/assets/js/acf-field-group.js:2063
+#: inc/admin/acf-pro/assets/js/acf-field-group.min.js:1
+#: inc/admin/acf-pro/admin/field-group.php:181
+#: inc/admin/acf-pro/admin/views/field-group-field-conditional-logic.php:62
+#: inc/admin/acf-pro/admin/views/field-group-field-conditional-logic.php:162
+#: inc/admin/acf-pro/admin/views/field-group-locations.php:59
+#: inc/admin/acf-pro/admin/views/field-group-locations.php:135
+#: inc/admin/acf-pro/api/api-helpers.php:3317
+msgid "or"
+msgstr ""
+
+#: inc/admin/acf-pro/assets/js/acf-input.js:2519
+#: inc/admin/acf-pro/assets/js/acf-input.min.js:1
+msgid "unload"
+msgstr ""
+
+#: inc/admin/acf-pro/assets/js/acf-input.js:3974
+#: inc/admin/acf-pro/assets/js/acf-input.js:4109
+#: inc/admin/acf-pro/assets/js/acf-input.js:4110
+#: inc/admin/acf-pro/assets/js/acf-input.min.js:1
+msgid "file"
+msgstr ""
+
+#: inc/admin/acf-pro/assets/js/acf-input.js:4765
+#: inc/admin/acf-pro/assets/js/acf-input.min.js:1
+msgid "google_map"
+msgstr ""
+
+#: inc/admin/acf-pro/assets/js/acf-input.js:4964
+#: inc/admin/acf-pro/assets/js/acf-input.js:5098
+#: inc/admin/acf-pro/assets/js/acf-input.js:5099
+#: inc/admin/acf-pro/assets/js/acf-input.js:5364
+#: inc/admin/acf-pro/assets/js/acf-input.js:5440
+#: inc/admin/acf-pro/assets/js/acf-input.min.js:1
+#: inc/admin/acf-pro/assets/js/acf-input.min.js:2
+#: inc/admin/acf-pro/pro/assets/js/acf-pro-input.js:1545
+#: inc/admin/acf-pro/pro/assets/js/acf-pro-input.js:1546
+#: inc/admin/acf-pro/pro/assets/js/acf-pro-input.min.js:1
+msgid "image"
+msgstr ""
+
+#: inc/admin/acf-pro/assets/js/acf-input.js:5756
+#: inc/admin/acf-pro/assets/js/acf-input.min.js:2
+msgid "restricted"
+msgstr ""
+
+#: inc/admin/acf-pro/assets/js/acf-input.js:5870
+#: inc/admin/acf-pro/assets/js/acf-input.min.js:2
+msgid "expand_details"
+msgstr ""
+
+#: inc/admin/acf-pro/assets/js/acf-input.js:5871
+#: inc/admin/acf-pro/assets/js/acf-input.min.js:2
+msgid "collapse_details"
+msgstr ""
+
+#: inc/admin/acf-pro/assets/js/acf-input.js:6452
+#: inc/admin/acf-pro/assets/js/acf-input.js:6499
+#: inc/admin/acf-pro/assets/js/acf-input.js:6664
+#: inc/admin/acf-pro/assets/js/acf-input.min.js:2
+msgid "relationship"
+msgstr ""
+
+#: inc/admin/acf-pro/assets/js/acf-input.js:8499
+#: inc/admin/acf-pro/assets/js/acf-input.min.js:2
+msgid "validation_successful"
+msgstr ""
+
+#: inc/admin/acf-pro/assets/js/acf-input.js:8573
+#: inc/admin/acf-pro/assets/js/acf-input.min.js:2
+msgid "validation_failed"
+msgstr ""
+
+#: inc/admin/acf-pro/assets/js/acf-input.js:8643
+#: inc/admin/acf-pro/assets/js/acf-input.min.js:2
+msgid "validation_failed_1"
+msgstr ""
+
+#: inc/admin/acf-pro/assets/js/acf-input.js:8647
+#: inc/admin/acf-pro/assets/js/acf-input.min.js:2
+msgid "validation_failed_2"
+msgstr ""
+
+#: inc/admin/acf-pro/pro/assets/js/acf-pro-field-group.js:574
+#: inc/admin/acf-pro/pro/assets/js/acf-pro-field-group.min.js:1
+#: inc/admin/acf-pro/pro/assets/js/acf-pro-input.js:615
+#: inc/admin/acf-pro/pro/assets/js/acf-pro-input.js:620
+#: inc/admin/acf-pro/pro/assets/js/acf-pro-input.js:643
+#: inc/admin/acf-pro/pro/assets/js/acf-pro-input.js:649
+#: inc/admin/acf-pro/pro/assets/js/acf-pro-input.js:673
+#: inc/admin/acf-pro/pro/assets/js/acf-pro-input.js:678
+#: inc/admin/acf-pro/pro/assets/js/acf-pro-input.js:679
+#: inc/admin/acf-pro/pro/assets/js/acf-pro-input.js:699
+#: inc/admin/acf-pro/pro/assets/js/acf-pro-input.js:705
+#: inc/admin/acf-pro/pro/assets/js/acf-pro-input.js:706
+#: inc/admin/acf-pro/pro/assets/js/acf-pro-input.js:745
+#: inc/admin/acf-pro/pro/assets/js/acf-pro-input.js:753
+#: inc/admin/acf-pro/pro/assets/js/acf-pro-input.js:774
+#: inc/admin/acf-pro/pro/assets/js/acf-pro-input.js:782
+#: inc/admin/acf-pro/pro/assets/js/acf-pro-input.min.js:1
+msgid "flexible_content"
+msgstr ""
+
+#: inc/admin/acf-pro/pro/assets/js/acf-pro-input.js:346
+#: inc/admin/acf-pro/pro/assets/js/acf-pro-input.js:409
+#: inc/admin/acf-pro/pro/assets/js/acf-pro-input.min.js:1
+msgid "repeater"
+msgstr ""
+
+#: inc/admin/acf-pro/pro/assets/js/acf-pro-input.js:1476
+#: inc/admin/acf-pro/pro/assets/js/acf-pro-input.js:1650
+#: inc/admin/acf-pro/pro/assets/js/acf-pro-input.js:1669
+#: inc/admin/acf-pro/pro/assets/js/acf-pro-input.min.js:1
+msgid "gallery"
+msgstr ""
+
+#: comments.php:19 inc/admin/acf-pro/admin/views/field-group-options.php:117
+msgid "Comments"
+msgstr ""
+
+#: comments.php:73
+msgid "Submit Comment"
+msgstr ""
+
+#: functions.php:121
+msgid "Blog Sidebar"
+msgstr ""
+
+#: functions.php:125
+msgid "Drag widgets here to show up in the default sidebar of the blog page."
+msgstr ""
+
+#: functions.php:139
+msgid "Footer Widgets"
+msgstr ""
+
+#: functions.php:143
+msgid "Add widgets to show up in footer widgets bar at the bottom of pages."
+msgstr ""
+
+#: functions.php:319
+msgid "FlatBook Plugin Installer"
+msgstr ""
+
+#: functions.php:321 inc/classes/class-tgm-plugin-activation.php:304
+msgid "Install Plugins"
+msgstr ""
+
+#: functions.php:323 inc/classes/class-tgm-plugin-activation.php:305
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: functions.php:325 inc/classes/class-tgm-plugin-activation.php:306
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: functions.php:347
+msgid "Return to FlatBook Plugins Installer"
+msgstr ""
+
+#: functions.php:349 inc/classes/class-tgm-plugin-activation.php:370
+#: inc/classes/class-tgm-plugin-activation.php:3052
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: functions.php:351
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: inc/admin/acf-pro/acf.php:63
+msgid "Advanced Custom Fields"
+msgstr ""
+
+#: inc/admin/acf-pro/acf.php:209 inc/admin/acf-pro/admin/admin.php:61
+msgid "Field Groups"
+msgstr ""
+
+#: inc/admin/acf-pro/acf.php:210
+msgid "Field Group"
+msgstr ""
+
+#: inc/admin/acf-pro/acf.php:211 inc/admin/acf-pro/acf.php:241
+#: inc/admin/acf-pro/admin/admin.php:62
+#: inc/admin/acf-pro/pro/fields/flexible-content.php:496
+msgid "Add New"
+msgstr ""
+
+#: inc/admin/acf-pro/acf.php:212
+msgid "Add New Field Group"
+msgstr ""
+
+#: inc/admin/acf-pro/acf.php:213
+msgid "Edit Field Group"
+msgstr ""
+
+#: inc/admin/acf-pro/acf.php:214
+msgid "New Field Group"
+msgstr ""
+
+#: inc/admin/acf-pro/acf.php:215
+msgid "View Field Group"
+msgstr ""
+
+#: inc/admin/acf-pro/acf.php:216
+msgid "Search Field Groups"
+msgstr ""
+
+#: inc/admin/acf-pro/acf.php:217
+msgid "No Field Groups found"
+msgstr ""
+
+#: inc/admin/acf-pro/acf.php:218
+msgid "No Field Groups found in Trash"
+msgstr ""
+
+#: inc/admin/acf-pro/acf.php:239 inc/admin/acf-pro/admin/field-group.php:182
+#: inc/admin/acf-pro/admin/field-group.php:213
+#: inc/admin/acf-pro/admin/field-groups.php:528
+msgid "Fields"
+msgstr ""
+
+#: inc/admin/acf-pro/acf.php:240
+msgid "Field"
+msgstr ""
+
+#: inc/admin/acf-pro/acf.php:242
+msgid "Add New Field"
+msgstr ""
+
+#: inc/admin/acf-pro/acf.php:243
+msgid "Edit Field"
+msgstr ""
+
+#: inc/admin/acf-pro/acf.php:244
+#: inc/admin/acf-pro/admin/views/field-group-fields.php:18
+#: inc/admin/acf-pro/admin/views/settings-info.php:111
+msgid "New Field"
+msgstr ""
+
+#: inc/admin/acf-pro/acf.php:245
+msgid "View Field"
+msgstr ""
+
+#: inc/admin/acf-pro/acf.php:246
+msgid "Search Fields"
+msgstr ""
+
+#: inc/admin/acf-pro/acf.php:247
+msgid "No Fields found"
+msgstr ""
+
+#: inc/admin/acf-pro/acf.php:248
+msgid "No Fields found in Trash"
+msgstr ""
+
+#: inc/admin/acf-pro/acf.php:337 inc/admin/acf-pro/admin/field-group.php:283
+#: inc/admin/acf-pro/admin/field-groups.php:586
+#: inc/admin/acf-pro/admin/views/field-group-options.php:13
+msgid "Disabled"
+msgstr ""
+
+#: inc/admin/acf-pro/admin/admin.php:57
+#: inc/admin/acf-pro/admin/views/field-group-options.php:115
+msgid "Custom Fields"
+msgstr ""
+
+#: inc/admin/acf-pro/admin/field-group.php:68
+#: inc/admin/acf-pro/admin/field-group.php:69
+#: inc/admin/acf-pro/admin/field-group.php:71
+msgid "Field group updated."
+msgstr ""
+
+#: inc/admin/acf-pro/admin/field-group.php:70
+msgid "Field group deleted."
+msgstr ""
+
+#: inc/admin/acf-pro/admin/field-group.php:73
+msgid "Field group published."
+msgstr ""
+
+#: inc/admin/acf-pro/admin/field-group.php:74
+msgid "Field group saved."
+msgstr ""
+
+#: inc/admin/acf-pro/admin/field-group.php:75
+msgid "Field group submitted."
+msgstr ""
+
+#: inc/admin/acf-pro/admin/field-group.php:76
+msgid "Field group scheduled for."
+msgstr ""
+
+#: inc/admin/acf-pro/admin/field-group.php:77
+msgid "Field group draft updated."
+msgstr ""
+
+#: inc/admin/acf-pro/admin/field-group.php:176
+msgid "Move to trash. Are you sure?"
+msgstr ""
+
+#: inc/admin/acf-pro/admin/field-group.php:178
+msgid "No toggle fields available"
+msgstr ""
+
+#: inc/admin/acf-pro/admin/field-group.php:179
+msgid "Field group title is required"
+msgstr ""
+
+#: inc/admin/acf-pro/admin/field-group.php:183
+msgid "Parent fields"
+msgstr ""
+
+#: inc/admin/acf-pro/admin/field-group.php:184
+msgid "Sibling fields"
+msgstr ""
+
+#: inc/admin/acf-pro/admin/field-group.php:185
+msgid "Move Custom Field"
+msgstr ""
+
+#: inc/admin/acf-pro/admin/field-group.php:186
+msgid "This field cannot be moved until its changes have been saved"
+msgstr ""
+
+#: inc/admin/acf-pro/admin/field-group.php:187
+msgid "Null"
+msgstr ""
+
+#: inc/admin/acf-pro/admin/field-group.php:188
+#: inc/admin/acf-pro/core/input.php:128
+msgid "The changes you made will be lost if you navigate away from this page"
+msgstr ""
+
+#: inc/admin/acf-pro/admin/field-group.php:189
+msgid "The string \"field_\" may not be used at the start of a field name"
+msgstr ""
+
+#: inc/admin/acf-pro/admin/field-group.php:214
+msgid "Location"
+msgstr ""
+
+#: inc/admin/acf-pro/admin/field-group.php:215
+msgid "Settings"
+msgstr ""
+
+#: inc/admin/acf-pro/admin/field-group.php:253
+msgid "Field Keys"
+msgstr ""
+
+#: inc/admin/acf-pro/admin/field-group.php:283
+#: inc/admin/acf-pro/admin/views/field-group-options.php:12
+#: inc/classes/class-tgm-plugin-activation.php:2271
+msgid "Active"
+msgstr ""
+
+#: inc/admin/acf-pro/admin/field-group.php:752
+msgid "Front Page"
+msgstr ""
+
+#: inc/admin/acf-pro/admin/field-group.php:753
+msgid "Posts Page"
+msgstr ""
+
+#: inc/admin/acf-pro/admin/field-group.php:754
+msgid "Top Level Page (no parent)"
+msgstr ""
+
+#: inc/admin/acf-pro/admin/field-group.php:755
+msgid "Parent Page (has children)"
+msgstr ""
+
+#: inc/admin/acf-pro/admin/field-group.php:756
+msgid "Child Page (has parent)"
+msgstr ""
+
+#: inc/admin/acf-pro/admin/field-group.php:772
+msgid "Default Template"
+msgstr ""
+
+#: inc/admin/acf-pro/admin/field-group.php:794
+msgid "Logged in"
+msgstr ""
+
+#: inc/admin/acf-pro/admin/field-group.php:795
+msgid "Viewing front end"
+msgstr ""
+
+#: inc/admin/acf-pro/admin/field-group.php:796
+msgid "Viewing back end"
+msgstr ""
+
+#: inc/admin/acf-pro/admin/field-group.php:815
+msgid "Super Admin"
+msgstr ""
+
+#: inc/admin/acf-pro/admin/field-group.php:826
+#: inc/admin/acf-pro/admin/field-group.php:834
+#: inc/admin/acf-pro/admin/field-group.php:848
+#: inc/admin/acf-pro/admin/field-group.php:855
+#: inc/admin/acf-pro/admin/field-group.php:870
+#: inc/admin/acf-pro/admin/field-group.php:880
+#: inc/admin/acf-pro/fields/file.php:235 inc/admin/acf-pro/fields/image.php:226
+#: inc/admin/acf-pro/pro/fields/gallery.php:661 inc/customizer/config.php:43
+#: inc/customizer/kirki/includes/class-kirki-toolkit.php:79
+msgid "All"
+msgstr ""
+
+#: inc/admin/acf-pro/admin/field-group.php:835
+msgid "Add / Edit"
+msgstr ""
+
+#: inc/admin/acf-pro/admin/field-group.php:836
+msgid "Register"
+msgstr ""
+
+#: inc/admin/acf-pro/admin/field-group.php:1067
+msgid "Move Complete."
+msgstr ""
+
+#: inc/admin/acf-pro/admin/field-group.php:1068
+#, php-format
+msgid "The %s field can now be found in the %s field group"
+msgstr ""
+
+#: inc/admin/acf-pro/admin/field-group.php:1070
+msgid "Close Window"
+msgstr ""
+
+#: inc/admin/acf-pro/admin/field-group.php:1105
+msgid "Please select the destination for this field"
+msgstr ""
+
+#: inc/admin/acf-pro/admin/field-group.php:1112
+msgid "Move Field"
+msgstr ""
+
+#: inc/admin/acf-pro/admin/field-groups.php:142
+#, php-format
+msgid "Field group duplicated. %s"
+msgstr ""
+
+#: inc/admin/acf-pro/admin/field-groups.php:146
+#, php-format
+msgid "%s field group duplicated."
+msgid_plural "%s field groups duplicated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/admin/acf-pro/admin/field-groups.php:228
+#, php-format
+msgid "Field group synchronised. %s"
+msgstr ""
+
+#: inc/admin/acf-pro/admin/field-groups.php:232
+#, php-format
+msgid "%s field group synchronised."
+msgid_plural "%s field groups synchronised."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/admin/acf-pro/admin/field-groups.php:412
+#: inc/admin/acf-pro/admin/field-groups.php:576
+msgid "Sync available"
+msgstr ""
+
+#: inc/admin/acf-pro/admin/field-groups.php:525
+msgid "Title"
+msgstr ""
+
+#: inc/admin/acf-pro/admin/field-groups.php:526
+#: inc/admin/acf-pro/admin/views/field-group-options.php:93
+#: inc/admin/acf-pro/admin/views/update-network.php:20
+#: inc/admin/acf-pro/admin/views/update-network.php:28
+msgid "Description"
+msgstr ""
+
+#: inc/admin/acf-pro/admin/field-groups.php:527
+#: inc/admin/acf-pro/admin/views/field-group-options.php:5
+#: inc/classes/class-tgm-plugin-activation.php:2520
+msgid "Status"
+msgstr ""
+
+#: inc/admin/acf-pro/admin/field-groups.php:624
+#: inc/admin/acf-pro/admin/settings-info.php:76
+#: inc/admin/acf-pro/pro/admin/views/settings-updates.php:111
+msgid "Changelog"
+msgstr ""
+
+#: inc/admin/acf-pro/admin/field-groups.php:625
+msgid "See what's new in"
+msgstr ""
+
+#: inc/admin/acf-pro/admin/field-groups.php:625
+msgid "version"
+msgstr ""
+
+#: inc/admin/acf-pro/admin/field-groups.php:627
+msgid "Resources"
+msgstr ""
+
+#: inc/admin/acf-pro/admin/field-groups.php:629
+msgid "Getting Started"
+msgstr ""
+
+#: inc/admin/acf-pro/admin/field-groups.php:630
+#: inc/admin/acf-pro/pro/admin/settings-updates.php:73
+#: inc/admin/acf-pro/pro/admin/views/settings-updates.php:17
+msgid "Updates"
+msgstr ""
+
+#: inc/admin/acf-pro/admin/field-groups.php:631
+msgid "Field Types"
+msgstr ""
+
+#: inc/admin/acf-pro/admin/field-groups.php:632
+msgid "Functions"
+msgstr ""
+
+#: inc/admin/acf-pro/admin/field-groups.php:633
+msgid "Actions"
+msgstr ""
+
+#: inc/admin/acf-pro/admin/field-groups.php:634
+#: inc/admin/acf-pro/fields/relationship.php:717
+msgid "Filters"
+msgstr ""
+
+#: inc/admin/acf-pro/admin/field-groups.php:635
+msgid "'How to' guides"
+msgstr ""
+
+#: inc/admin/acf-pro/admin/field-groups.php:636
+msgid "Tutorials"
+msgstr ""
+
+#: inc/admin/acf-pro/admin/field-groups.php:641
+msgid "Created by"
+msgstr ""
+
+#: inc/admin/acf-pro/admin/field-groups.php:684
+msgid "Duplicate this item"
+msgstr ""
+
+#: inc/admin/acf-pro/admin/field-groups.php:684
+#: inc/admin/acf-pro/admin/field-groups.php:700
+#: inc/admin/acf-pro/admin/views/field-group-field.php:59
+#: inc/admin/acf-pro/pro/fields/flexible-content.php:495
+msgid "Duplicate"
+msgstr ""
+
+#: inc/admin/acf-pro/admin/field-groups.php:746
+#, php-format
+msgid "Select %s"
+msgstr ""
+
+#: inc/admin/acf-pro/admin/field-groups.php:754
+msgid "Synchronise field group"
+msgstr ""
+
+#: inc/admin/acf-pro/admin/field-groups.php:754
+#: inc/admin/acf-pro/admin/field-groups.php:771
+msgid "Sync"
+msgstr ""
+
+#: inc/admin/acf-pro/admin/settings-addons.php:51
+#: inc/admin/acf-pro/admin/views/settings-addons.php:9
+msgid "Add-ons"
+msgstr ""
+
+#: inc/admin/acf-pro/admin/settings-addons.php:87
+msgid "<b>Error</b>. Could not load add-ons list"
+msgstr ""
+
+#: inc/admin/acf-pro/admin/settings-info.php:50
+msgid "Info"
+msgstr ""
+
+#: inc/admin/acf-pro/admin/settings-info.php:75
+msgid "What's New"
+msgstr ""
+
+#: inc/admin/acf-pro/admin/settings-tools.php:54
+#: inc/admin/acf-pro/admin/views/settings-tools-export.php:9
+#: inc/admin/acf-pro/admin/views/settings-tools.php:31
+msgid "Tools"
+msgstr ""
+
+#: inc/admin/acf-pro/admin/settings-tools.php:151
+#: inc/admin/acf-pro/admin/settings-tools.php:365
+msgid "No field groups selected"
+msgstr ""
+
+#: inc/admin/acf-pro/admin/settings-tools.php:188
+msgid "No file selected"
+msgstr ""
+
+#: inc/admin/acf-pro/admin/settings-tools.php:201
+msgid "Error uploading file. Please try again"
+msgstr ""
+
+#: inc/admin/acf-pro/admin/settings-tools.php:210
+msgid "Incorrect file type"
+msgstr ""
+
+#: inc/admin/acf-pro/admin/settings-tools.php:227
+msgid "Import file empty"
+msgstr ""
+
+#: inc/admin/acf-pro/admin/settings-tools.php:323
+#, php-format
+msgid "<b>Success</b>. Import tool added %s field groups: %s"
+msgstr ""
+
+#: inc/admin/acf-pro/admin/settings-tools.php:332
+#, php-format
+msgid ""
+"<b>Warning</b>. Import tool detected %s field groups already exist and have "
+"been ignored: %s"
+msgstr ""
+
+#: inc/admin/acf-pro/admin/update.php:113
+msgid "Upgrade ACF"
+msgstr ""
+
+#: inc/admin/acf-pro/admin/update.php:143
+msgid "Review sites & upgrade"
+msgstr ""
+
+#: inc/admin/acf-pro/admin/update.php:298
+msgid "Upgrade"
+msgstr ""
+
+#: inc/admin/acf-pro/admin/update.php:328
+msgid "Upgrade Database"
+msgstr ""
+
+#: inc/admin/acf-pro/admin/views/field-group-field-conditional-logic.php:29
+msgid "Conditional Logic"
+msgstr ""
+
+#: inc/admin/acf-pro/admin/views/field-group-field-conditional-logic.php:40
+#: inc/admin/acf-pro/admin/views/field-group-field.php:141
+#: inc/admin/acf-pro/fields/checkbox.php:246
+#: inc/admin/acf-pro/fields/message.php:144
+#: inc/admin/acf-pro/fields/page_link.php:553
+#: inc/admin/acf-pro/fields/page_link.php:567
+#: inc/admin/acf-pro/fields/post_object.php:419
+#: inc/admin/acf-pro/fields/post_object.php:433
+#: inc/admin/acf-pro/fields/select.php:396
+#: inc/admin/acf-pro/fields/select.php:410
+#: inc/admin/acf-pro/fields/select.php:424
+#: inc/admin/acf-pro/fields/select.php:438 inc/admin/acf-pro/fields/tab.php:161
+#: inc/admin/acf-pro/fields/taxonomy.php:791
+#: inc/admin/acf-pro/fields/taxonomy.php:805
+#: inc/admin/acf-pro/fields/taxonomy.php:819
+#: inc/admin/acf-pro/fields/taxonomy.php:833
+#: inc/admin/acf-pro/fields/user.php:457 inc/admin/acf-pro/fields/user.php:471
+#: inc/admin/acf-pro/fields/wysiwyg.php:401
+#: inc/admin/acf-pro/pro/admin/views/settings-updates.php:93
+#: inc/admin/plugins/acf-contact-form-7/acf-cf7-v5.php:99
+#: inc/admin/plugins/acf-contact-form-7/acf-cf7-v5.php:110
+#: inc/admin/plugins/acf-font-awesome/acf-font-awesome-v5.php:172
+#: inc/admin/plugins/acf-font-awesome/acf-font-awesome-v5.php:183
+#: inc/admin/plugins/acf-image-select/acf-image-select-v5.php:126
+msgid "Yes"
+msgstr ""
+
+#: inc/admin/acf-pro/admin/views/field-group-field-conditional-logic.php:41
+#: inc/admin/acf-pro/admin/views/field-group-field.php:142
+#: inc/admin/acf-pro/fields/checkbox.php:247
+#: inc/admin/acf-pro/fields/message.php:145
+#: inc/admin/acf-pro/fields/page_link.php:554
+#: inc/admin/acf-pro/fields/page_link.php:568
+#: inc/admin/acf-pro/fields/post_object.php:420
+#: inc/admin/acf-pro/fields/post_object.php:434
+#: inc/admin/acf-pro/fields/select.php:397
+#: inc/admin/acf-pro/fields/select.php:411
+#: inc/admin/acf-pro/fields/select.php:425
+#: inc/admin/acf-pro/fields/select.php:439 inc/admin/acf-pro/fields/tab.php:162
+#: inc/admin/acf-pro/fields/taxonomy.php:706
+#: inc/admin/acf-pro/fields/taxonomy.php:792
+#: inc/admin/acf-pro/fields/taxonomy.php:806
+#: inc/admin/acf-pro/fields/taxonomy.php:820
+#: inc/admin/acf-pro/fields/taxonomy.php:834
+#: inc/admin/acf-pro/fields/user.php:458 inc/admin/acf-pro/fields/user.php:472
+#: inc/admin/acf-pro/fields/wysiwyg.php:402
+#: inc/admin/acf-pro/pro/admin/views/settings-updates.php:103
+#: inc/admin/plugins/acf-contact-form-7/acf-cf7-v5.php:100
+#: inc/admin/plugins/acf-contact-form-7/acf-cf7-v5.php:111
+#: inc/admin/plugins/acf-font-awesome/acf-font-awesome-v5.php:173
+#: inc/admin/plugins/acf-font-awesome/acf-font-awesome-v5.php:184
+#: inc/admin/plugins/acf-image-select/acf-image-select-v5.php:127
+msgid "No"
+msgstr ""
+
+#: inc/admin/acf-pro/admin/views/field-group-field-conditional-logic.php:62
+msgid "Show this field if"
+msgstr ""
+
+#: inc/admin/acf-pro/admin/views/field-group-field-conditional-logic.php:111
+#: inc/admin/acf-pro/admin/views/field-group-locations.php:34
+msgid "is equal to"
+msgstr ""
+
+#: inc/admin/acf-pro/admin/views/field-group-field-conditional-logic.php:112
+#: inc/admin/acf-pro/admin/views/field-group-locations.php:35
+msgid "is not equal to"
+msgstr ""
+
+#: inc/admin/acf-pro/admin/views/field-group-field-conditional-logic.php:149
+#: inc/admin/acf-pro/admin/views/field-group-locations.php:122
+msgid "and"
+msgstr ""
+
+#: inc/admin/acf-pro/admin/views/field-group-field-conditional-logic.php:164
+#: inc/admin/acf-pro/admin/views/field-group-locations.php:137
+msgid "Add rule group"
+msgstr ""
+
+#: inc/admin/acf-pro/admin/views/field-group-field.php:54
+#: inc/admin/acf-pro/admin/views/field-group-field.php:58
+msgid "Edit field"
+msgstr ""
+
+#: inc/admin/acf-pro/admin/views/field-group-field.php:58
+#: inc/admin/acf-pro/pro/fields/gallery.php:363
+msgid "Edit"
+msgstr ""
+
+#: inc/admin/acf-pro/admin/views/field-group-field.php:59
+msgid "Duplicate field"
+msgstr ""
+
+#: inc/admin/acf-pro/admin/views/field-group-field.php:60
+msgid "Move field to another group"
+msgstr ""
+
+#: inc/admin/acf-pro/admin/views/field-group-field.php:60
+msgid "Move"
+msgstr ""
+
+#: inc/admin/acf-pro/admin/views/field-group-field.php:61
+msgid "Delete field"
+msgstr ""
+
+#: inc/admin/acf-pro/admin/views/field-group-field.php:61
+#: inc/admin/acf-pro/pro/fields/flexible-content.php:494
+msgid "Delete"
+msgstr ""
+
+#: inc/admin/acf-pro/admin/views/field-group-field.php:69
+#: inc/admin/acf-pro/fields/oembed.php:212
+#: inc/admin/acf-pro/fields/taxonomy.php:907
+msgid "Error"
+msgstr ""
+
+#: inc/admin/acf-pro/admin/views/field-group-field.php:69
+msgid "Field type does not exist"
+msgstr ""
+
+#: inc/admin/acf-pro/admin/views/field-group-field.php:82
+msgid "Field Label"
+msgstr ""
+
+#: inc/admin/acf-pro/admin/views/field-group-field.php:83
+msgid "This is the name which will appear on the EDIT page"
+msgstr ""
+
+#: inc/admin/acf-pro/admin/views/field-group-field.php:95
+msgid "Field Name"
+msgstr ""
+
+#: inc/admin/acf-pro/admin/views/field-group-field.php:96
+msgid "Single word, no spaces. Underscores and dashes allowed"
+msgstr ""
+
+#: inc/admin/acf-pro/admin/views/field-group-field.php:108
+msgid "Field Type"
+msgstr ""
+
+#: inc/admin/acf-pro/admin/views/field-group-field.php:122
+#: inc/admin/acf-pro/fields/tab.php:134
+msgid "Instructions"
+msgstr ""
+
+#: inc/admin/acf-pro/admin/views/field-group-field.php:123
+msgid "Instructions for authors. Shown when submitting data"
+msgstr ""
+
+#: inc/admin/acf-pro/admin/views/field-group-field.php:134
+msgid "Required?"
+msgstr ""
+
+#: inc/admin/acf-pro/admin/views/field-group-field.php:163
+msgid "Wrapper Attributes"
+msgstr ""
+
+#: inc/admin/acf-pro/admin/views/field-group-field.php:169
+msgid "width"
+msgstr ""
+
+#: inc/admin/acf-pro/admin/views/field-group-field.php:183
+msgid "class"
+msgstr ""
+
+#: inc/admin/acf-pro/admin/views/field-group-field.php:196
+msgid "id"
+msgstr ""
+
+#: inc/admin/acf-pro/admin/views/field-group-field.php:208
+msgid "Close Field"
+msgstr ""
+
+#: inc/admin/acf-pro/admin/views/field-group-fields.php:29
+msgid "Order"
+msgstr ""
+
+#: inc/admin/acf-pro/admin/views/field-group-fields.php:30
+#: inc/admin/acf-pro/pro/fields/flexible-content.php:521
+msgid "Label"
+msgstr ""
+
+#: inc/admin/acf-pro/admin/views/field-group-fields.php:31
+#: inc/admin/acf-pro/pro/fields/flexible-content.php:534
+msgid "Name"
+msgstr ""
+
+#: inc/admin/acf-pro/admin/views/field-group-fields.php:32
+#: inc/classes/class-tgm-plugin-activation.php:2515
+msgid "Type"
+msgstr ""
+
+#: inc/admin/acf-pro/admin/views/field-group-fields.php:44
+msgid ""
+"No fields. Click the <strong>+ Add Field</strong> button to create your "
+"first field."
+msgstr ""
+
+#: inc/admin/acf-pro/admin/views/field-group-fields.php:51
+msgid "Drag and drop to reorder"
+msgstr ""
+
+#: inc/admin/acf-pro/admin/views/field-group-fields.php:54
+msgid "+ Add Field"
+msgstr ""
+
+#: inc/admin/acf-pro/admin/views/field-group-locations.php:5
+#: inc/admin/acf-pro/admin/views/field-group-locations.php:11
+msgid "Post"
+msgstr ""
+
+#: inc/admin/acf-pro/admin/views/field-group-locations.php:6
+#: inc/admin/acf-pro/fields/relationship.php:723
+msgid "Post Type"
+msgstr ""
+
+#: inc/admin/acf-pro/admin/views/field-group-locations.php:7
+msgid "Post Status"
+msgstr ""
+
+#: inc/admin/acf-pro/admin/views/field-group-locations.php:8
+msgid "Post Format"
+msgstr ""
+
+#: inc/admin/acf-pro/admin/views/field-group-locations.php:9
+msgid "Post Category"
+msgstr ""
+
+#: inc/admin/acf-pro/admin/views/field-group-locations.php:10
+msgid "Post Taxonomy"
+msgstr ""
+
+#: inc/admin/acf-pro/admin/views/field-group-locations.php:13
+#: inc/admin/acf-pro/admin/views/field-group-locations.php:17
+msgid "Page"
+msgstr ""
+
+#: inc/admin/acf-pro/admin/views/field-group-locations.php:14
+msgid "Page Template"
+msgstr ""
+
+#: inc/admin/acf-pro/admin/views/field-group-locations.php:15
+msgid "Page Type"
+msgstr ""
+
+#: inc/admin/acf-pro/admin/views/field-group-locations.php:16
+msgid "Page Parent"
+msgstr ""
+
+#: inc/admin/acf-pro/admin/views/field-group-locations.php:19
+#: inc/admin/acf-pro/fields/user.php:36
+msgid "User"
+msgstr ""
+
+#: inc/admin/acf-pro/admin/views/field-group-locations.php:20
+msgid "Current User"
+msgstr ""
+
+#: inc/admin/acf-pro/admin/views/field-group-locations.php:21
+msgid "Current User Role"
+msgstr ""
+
+#: inc/admin/acf-pro/admin/views/field-group-locations.php:22
+msgid "User Form"
+msgstr ""
+
+#: inc/admin/acf-pro/admin/views/field-group-locations.php:23
+msgid "User Role"
+msgstr ""
+
+#: inc/admin/acf-pro/admin/views/field-group-locations.php:25
+#: inc/admin/acf-pro/pro/admin/options-page.php:48
+msgid "Forms"
+msgstr ""
+
+#: inc/admin/acf-pro/admin/views/field-group-locations.php:26
+msgid "Attachment"
+msgstr ""
+
+#: inc/admin/acf-pro/admin/views/field-group-locations.php:27
+msgid "Taxonomy Term"
+msgstr ""
+
+#: inc/admin/acf-pro/admin/views/field-group-locations.php:28
+msgid "Comment"
+msgstr ""
+
+#: inc/admin/acf-pro/admin/views/field-group-locations.php:29
+msgid "Widget"
+msgstr ""
+
+#: inc/admin/acf-pro/admin/views/field-group-locations.php:41
+msgid "Rules"
+msgstr ""
+
+#: inc/admin/acf-pro/admin/views/field-group-locations.php:42
+msgid ""
+"Create a set of rules to determine which edit screens will use these "
+"advanced custom fields"
+msgstr ""
+
+#: inc/admin/acf-pro/admin/views/field-group-locations.php:59
+msgid "Show this field group if"
+msgstr ""
+
+#: inc/admin/acf-pro/admin/views/field-group-options.php:20
+msgid "Style"
+msgstr ""
+
+#: inc/admin/acf-pro/admin/views/field-group-options.php:27
+msgid "Standard (WP metabox)"
+msgstr ""
+
+#: inc/admin/acf-pro/admin/views/field-group-options.php:28
+msgid "Seamless (no metabox)"
+msgstr ""
+
+#: inc/admin/acf-pro/admin/views/field-group-options.php:35
+msgid "Position"
+msgstr ""
+
+#: inc/admin/acf-pro/admin/views/field-group-options.php:42
+msgid "High (after title)"
+msgstr ""
+
+#: inc/admin/acf-pro/admin/views/field-group-options.php:43
+msgid "Normal (after content)"
+msgstr ""
+
+#: inc/admin/acf-pro/admin/views/field-group-options.php:44
+msgid "Side"
+msgstr ""
+
+#: inc/admin/acf-pro/admin/views/field-group-options.php:52
+msgid "Label placement"
+msgstr ""
+
+#: inc/admin/acf-pro/admin/views/field-group-options.php:59
+#: inc/admin/acf-pro/fields/tab.php:148
+msgid "Top aligned"
+msgstr ""
+
+#: inc/admin/acf-pro/admin/views/field-group-options.php:60
+#: inc/admin/acf-pro/fields/tab.php:149
+msgid "Left Aligned"
+msgstr ""
+
+#: inc/admin/acf-pro/admin/views/field-group-options.php:67
+msgid "Instruction placement"
+msgstr ""
+
+#: inc/admin/acf-pro/admin/views/field-group-options.php:74
+msgid "Below labels"
+msgstr ""
+
+#: inc/admin/acf-pro/admin/views/field-group-options.php:75
+msgid "Below fields"
+msgstr ""
+
+#: inc/admin/acf-pro/admin/views/field-group-options.php:82
+msgid "Order No."
+msgstr ""
+
+#: inc/admin/acf-pro/admin/views/field-group-options.php:83
+msgid "Field groups with a lower order will appear first"
+msgstr ""
+
+#: inc/admin/acf-pro/admin/views/field-group-options.php:94
+msgid "Shown in field group list"
+msgstr ""
+
+#: inc/admin/acf-pro/admin/views/field-group-options.php:104
+msgid "Hide on screen"
+msgstr ""
+
+#: inc/admin/acf-pro/admin/views/field-group-options.php:105
+msgid "<b>Select</b> items to <b>hide</b> them from the edit screen."
+msgstr ""
+
+#: inc/admin/acf-pro/admin/views/field-group-options.php:105
+msgid ""
+"If multiple field groups appear on an edit screen, the first field group's "
+"options will be used (the one with the lowest order number)"
+msgstr ""
+
+#: inc/admin/acf-pro/admin/views/field-group-options.php:112
+msgid "Permalink"
+msgstr ""
+
+#: inc/admin/acf-pro/admin/views/field-group-options.php:113
+msgid "Content Editor"
+msgstr ""
+
+#: inc/admin/acf-pro/admin/views/field-group-options.php:114
+msgid "Excerpt"
+msgstr ""
+
+#: inc/admin/acf-pro/admin/views/field-group-options.php:116
+msgid "Discussion"
+msgstr ""
+
+#: inc/admin/acf-pro/admin/views/field-group-options.php:118
+msgid "Revisions"
+msgstr ""
+
+#: inc/admin/acf-pro/admin/views/field-group-options.php:119
+msgid "Slug"
+msgstr ""
+
+#: inc/admin/acf-pro/admin/views/field-group-options.php:120
+msgid "Author"
+msgstr ""
+
+#: inc/admin/acf-pro/admin/views/field-group-options.php:121
+msgid "Format"
+msgstr ""
+
+#: inc/admin/acf-pro/admin/views/field-group-options.php:122
+msgid "Page Attributes"
+msgstr ""
+
+#: inc/admin/acf-pro/admin/views/field-group-options.php:123
+#: inc/admin/acf-pro/fields/relationship.php:736
+msgid "Featured Image"
+msgstr ""
+
+#: inc/admin/acf-pro/admin/views/field-group-options.php:124
+msgid "Categories"
+msgstr ""
+
+#: inc/admin/acf-pro/admin/views/field-group-options.php:125
+msgid "Tags"
+msgstr ""
+
+#: inc/admin/acf-pro/admin/views/field-group-options.php:126
+msgid "Send Trackbacks"
+msgstr ""
+
+#: inc/admin/acf-pro/admin/views/settings-addons.php:23
+msgid "Download & Install"
+msgstr ""
+
+#: inc/admin/acf-pro/admin/views/settings-addons.php:42
+msgid "Installed"
+msgstr ""
+
+#: inc/admin/acf-pro/admin/views/settings-info.php:9
+msgid "Welcome to Advanced Custom Fields"
+msgstr ""
+
+#: inc/admin/acf-pro/admin/views/settings-info.php:10
+#, php-format
+msgid ""
+"Thank you for updating! ACF %s is bigger and better than ever before. We "
+"hope you like it."
+msgstr ""
+
+#: inc/admin/acf-pro/admin/views/settings-info.php:23
+msgid "A smoother custom field experience"
+msgstr ""
+
+#: inc/admin/acf-pro/admin/views/settings-info.php:28
+msgid "Improved Usability"
+msgstr ""
+
+#: inc/admin/acf-pro/admin/views/settings-info.php:29
+msgid ""
+"Including the popular Select2 library has improved both usability and speed "
+"across a number of field types including post object, page link, taxonomy "
+"and select."
+msgstr ""
+
+#: inc/admin/acf-pro/admin/views/settings-info.php:33
+msgid "Improved Design"
+msgstr ""
+
+#: inc/admin/acf-pro/admin/views/settings-info.php:34
+msgid ""
+"Many fields have undergone a visual refresh to make ACF look better than "
+"ever! Noticeable changes are seen on the gallery, relationship and oEmbed "
+"(new) fields!"
+msgstr ""
+
+#: inc/admin/acf-pro/admin/views/settings-info.php:38
+msgid "Improved Data"
+msgstr ""
+
+#: inc/admin/acf-pro/admin/views/settings-info.php:39
+msgid ""
+"Redesigning the data architecture has allowed sub fields to live "
+"independently from their parents. This allows you to drag and drop fields in "
+"and out of parent fields!"
+msgstr ""
+
+#: inc/admin/acf-pro/admin/views/settings-info.php:45
+msgid "Goodbye Add-ons. Hello PRO"
+msgstr ""
+
+#: inc/admin/acf-pro/admin/views/settings-info.php:50
+msgid "Introducing ACF PRO"
+msgstr ""
+
+#: inc/admin/acf-pro/admin/views/settings-info.php:51
+msgid ""
+"We're changing the way premium functionality is delivered in an exciting way!"
+msgstr ""
+
+#: inc/admin/acf-pro/admin/views/settings-info.php:52
+#, php-format
+msgid ""
+"All 4 premium add-ons have been combined into a new <a href=\"%s\">Pro "
+"version of ACF</a>. With both personal and developer licenses available, "
+"premium functionality is more affordable and accessible than ever before!"
+msgstr ""
+
+#: inc/admin/acf-pro/admin/views/settings-info.php:56
+msgid "Powerful Features"
+msgstr ""
+
+#: inc/admin/acf-pro/admin/views/settings-info.php:57
+msgid ""
+"ACF PRO contains powerful features such as repeatable data, flexible content "
+"layouts, a beautiful gallery field and the ability to create extra admin "
+"options pages!"
+msgstr ""
+
+#: inc/admin/acf-pro/admin/views/settings-info.php:58
+#, php-format
+msgid "Read more about <a href=\"%s\">ACF PRO features</a>."
+msgstr ""
+
+#: inc/admin/acf-pro/admin/views/settings-info.php:62
+msgid "Easy Upgrading"
+msgstr ""
+
+#: inc/admin/acf-pro/admin/views/settings-info.php:63
+#, php-format
+msgid ""
+"To help make upgrading easy, <a href=\"%s\">login to your store account</a> "
+"and claim a free copy of ACF PRO!"
+msgstr ""
+
+#: inc/admin/acf-pro/admin/views/settings-info.php:64
+#, php-format
+msgid ""
+"We also wrote an <a href=\"%s\">upgrade guide</a> to answer any questions, "
+"but if you do have one, please contact our support team via the <a href=\"%s"
+"\">help desk</a>"
+msgstr ""
+
+#: inc/admin/acf-pro/admin/views/settings-info.php:72
+msgid "Under the Hood"
+msgstr ""
+
+#: inc/admin/acf-pro/admin/views/settings-info.php:77
+msgid "Smarter field settings"
+msgstr ""
+
+#: inc/admin/acf-pro/admin/views/settings-info.php:78
+msgid "ACF now saves its field settings as individual post objects"
+msgstr ""
+
+#: inc/admin/acf-pro/admin/views/settings-info.php:82
+msgid "More AJAX"
+msgstr ""
+
+#: inc/admin/acf-pro/admin/views/settings-info.php:83
+msgid "More fields use AJAX powered search to speed up page loading"
+msgstr ""
+
+#: inc/admin/acf-pro/admin/views/settings-info.php:87
+msgid "Local JSON"
+msgstr ""
+
+#: inc/admin/acf-pro/admin/views/settings-info.php:88
+msgid "New auto export to JSON feature improves speed"
+msgstr ""
+
+#: inc/admin/acf-pro/admin/views/settings-info.php:94
+msgid "Better version control"
+msgstr ""
+
+#: inc/admin/acf-pro/admin/views/settings-info.php:95
+msgid ""
+"New auto export to JSON feature allows field settings to be version "
+"controlled"
+msgstr ""
+
+#: inc/admin/acf-pro/admin/views/settings-info.php:99
+msgid "Swapped XML for JSON"
+msgstr ""
+
+#: inc/admin/acf-pro/admin/views/settings-info.php:100
+msgid "Import / Export now uses JSON in favour of XML"
+msgstr ""
+
+#: inc/admin/acf-pro/admin/views/settings-info.php:104
+msgid "New Forms"
+msgstr ""
+
+#: inc/admin/acf-pro/admin/views/settings-info.php:105
+msgid "Fields can now be mapped to comments, widgets and all user forms!"
+msgstr ""
+
+#: inc/admin/acf-pro/admin/views/settings-info.php:112
+msgid "A new field for embedding content has been added"
+msgstr ""
+
+#: inc/admin/acf-pro/admin/views/settings-info.php:116
+msgid "New Gallery"
+msgstr ""
+
+#: inc/admin/acf-pro/admin/views/settings-info.php:117
+msgid "The gallery field has undergone a much needed facelift"
+msgstr ""
+
+#: inc/admin/acf-pro/admin/views/settings-info.php:121
+msgid "New Settings"
+msgstr ""
+
+#: inc/admin/acf-pro/admin/views/settings-info.php:122
+msgid ""
+"Field group settings have been added for label placement and instruction "
+"placement"
+msgstr ""
+
+#: inc/admin/acf-pro/admin/views/settings-info.php:128
+msgid "Better Front End Forms"
+msgstr ""
+
+#: inc/admin/acf-pro/admin/views/settings-info.php:129
+msgid "acf_form() can now create a new post on submission"
+msgstr ""
+
+#: inc/admin/acf-pro/admin/views/settings-info.php:133
+msgid "Better Validation"
+msgstr ""
+
+#: inc/admin/acf-pro/admin/views/settings-info.php:134
+msgid "Form validation is now done via PHP + AJAX in favour of only JS"
+msgstr ""
+
+#: inc/admin/acf-pro/admin/views/settings-info.php:138
+msgid "Relationship Field"
+msgstr ""
+
+#: inc/admin/acf-pro/admin/views/settings-info.php:139
+msgid ""
+"New Relationship field setting for 'Filters' (Search, Post Type, Taxonomy)"
+msgstr ""
+
+#: inc/admin/acf-pro/admin/views/settings-info.php:145
+msgid "Moving Fields"
+msgstr ""
+
+#: inc/admin/acf-pro/admin/views/settings-info.php:146
+msgid ""
+"New field group functionality allows you to move a field between groups & "
+"parents"
+msgstr ""
+
+#: inc/admin/acf-pro/admin/views/settings-info.php:150
+#: inc/admin/acf-pro/fields/page_link.php:36
+msgid "Page Link"
+msgstr ""
+
+#: inc/admin/acf-pro/admin/views/settings-info.php:151
+msgid "New archives group in page_link field selection"
+msgstr ""
+
+#: inc/admin/acf-pro/admin/views/settings-info.php:155
+msgid "Better Options Pages"
+msgstr ""
+
+#: inc/admin/acf-pro/admin/views/settings-info.php:156
+msgid ""
+"New functions for options page allow creation of both parent and child menu "
+"pages"
+msgstr ""
+
+#: inc/admin/acf-pro/admin/views/settings-info.php:165
+#, php-format
+msgid "We think you'll love the changes in %s."
+msgstr ""
+
+#: inc/admin/acf-pro/admin/views/settings-tools-export.php:13
+msgid "Export Field Groups to PHP"
+msgstr ""
+
+#: inc/admin/acf-pro/admin/views/settings-tools-export.php:17
+msgid ""
+"The following code can be used to register a local version of the selected "
+"field group(s). A local field group can provide many benefits such as faster "
+"load times, version control & dynamic fields/settings. Simply copy and paste "
+"the following code to your theme's functions.php file or include it within "
+"an external file."
+msgstr ""
+
+#: inc/admin/acf-pro/admin/views/settings-tools.php:5
+msgid "Select Field Groups"
+msgstr ""
+
+#: inc/admin/acf-pro/admin/views/settings-tools.php:35
+msgid "Export Field Groups"
+msgstr ""
+
+#: inc/admin/acf-pro/admin/views/settings-tools.php:38
+msgid ""
+"Select the field groups you would like to export and then select your export "
+"method. Use the download button to export to a .json file which you can then "
+"import to another ACF installation. Use the generate button to export to PHP "
+"code which you can place in your theme."
+msgstr ""
+
+#: inc/admin/acf-pro/admin/views/settings-tools.php:50
+msgid "Download export file"
+msgstr ""
+
+#: inc/admin/acf-pro/admin/views/settings-tools.php:51
+msgid "Generate export code"
+msgstr ""
+
+#: inc/admin/acf-pro/admin/views/settings-tools.php:64
+msgid "Import Field Groups"
+msgstr ""
+
+#: inc/admin/acf-pro/admin/views/settings-tools.php:67
+msgid ""
+"Select the Advanced Custom Fields JSON file you would like to import. When "
+"you click the import button below, ACF will import the field groups."
+msgstr ""
+
+#: inc/admin/acf-pro/admin/views/settings-tools.php:77
+#: inc/admin/acf-pro/fields/file.php:46
+msgid "Select File"
+msgstr ""
+
+#: inc/admin/acf-pro/admin/views/settings-tools.php:86
+msgid "Import"
+msgstr ""
+
+#: inc/admin/acf-pro/admin/views/update-network.php:8
+#: inc/admin/acf-pro/admin/views/update.php:8
+msgid "Advanced Custom Fields Database Upgrade"
+msgstr ""
+
+#: inc/admin/acf-pro/admin/views/update-network.php:10
+msgid ""
+"The following sites require a DB upgrade. Check the ones you want to update "
+"and then click “Upgrade Database”."
+msgstr ""
+
+#: inc/admin/acf-pro/admin/views/update-network.php:19
+#: inc/admin/acf-pro/admin/views/update-network.php:27
+msgid "Site"
+msgstr ""
+
+#: inc/admin/acf-pro/admin/views/update-network.php:47
+#, php-format
+msgid "Site requires database upgrade from %s to %s"
+msgstr ""
+
+#: inc/admin/acf-pro/admin/views/update-network.php:49
+msgid "Site is up to date"
+msgstr ""
+
+#: inc/admin/acf-pro/admin/views/update-network.php:62
+#: inc/admin/acf-pro/admin/views/update.php:16
+msgid "Database Upgrade complete"
+msgstr ""
+
+#: inc/admin/acf-pro/admin/views/update-network.php:62
+msgid "Return to network dashboard"
+msgstr ""
+
+#: inc/admin/acf-pro/admin/views/update-network.php:101
+#: inc/admin/acf-pro/admin/views/update-notice.php:35
+msgid ""
+"It is strongly recommended that you backup your database before proceeding. "
+"Are you sure you wish to run the updater now?"
+msgstr ""
+
+#: inc/admin/acf-pro/admin/views/update-network.php:157
+msgid "Upgrade complete"
+msgstr ""
+
+#: inc/admin/acf-pro/admin/views/update-network.php:161
+msgid "Upgrading data to"
+msgstr ""
+
+#: inc/admin/acf-pro/admin/views/update-notice.php:23
+msgid "Database Upgrade Required"
+msgstr ""
+
+#: inc/admin/acf-pro/admin/views/update-notice.php:25
+#, php-format
+msgid "Thank you for updating to %s v%s!"
+msgstr ""
+
+#: inc/admin/acf-pro/admin/views/update-notice.php:25
+msgid ""
+"Before you start using the new awesome features, please update your database "
+"to the newest version."
+msgstr ""
+
+#: inc/admin/acf-pro/admin/views/update.php:12
+msgid "Reading upgrade tasks..."
+msgstr ""
+
+#: inc/admin/acf-pro/admin/views/update.php:14
+#, php-format
+msgid "Upgrading data to version %s"
+msgstr ""
+
+#: inc/admin/acf-pro/admin/views/update.php:16
+msgid "See what's new"
+msgstr ""
+
+#: inc/admin/acf-pro/admin/views/update.php:110
+msgid "No updates available"
+msgstr ""
+
+#: inc/admin/acf-pro/api/api-helpers.php:876
+msgid "Thumbnail"
+msgstr ""
+
+#: inc/admin/acf-pro/api/api-helpers.php:877
+msgid "Medium"
+msgstr ""
+
+#: inc/admin/acf-pro/api/api-helpers.php:878
+msgid "Large"
+msgstr ""
+
+#: inc/admin/acf-pro/api/api-helpers.php:926
+msgid "Full Size"
+msgstr ""
+
+#: inc/admin/acf-pro/api/api-helpers.php:1636
+msgid "(no title)"
+msgstr ""
+
+#: inc/admin/acf-pro/api/api-helpers.php:3238
+#, php-format
+msgid "Image width must be at least %dpx."
+msgstr ""
+
+#: inc/admin/acf-pro/api/api-helpers.php:3243
+#, php-format
+msgid "Image width must not exceed %dpx."
+msgstr ""
+
+#: inc/admin/acf-pro/api/api-helpers.php:3259
+#, php-format
+msgid "Image height must be at least %dpx."
+msgstr ""
+
+#: inc/admin/acf-pro/api/api-helpers.php:3264
+#, php-format
+msgid "Image height must not exceed %dpx."
+msgstr ""
+
+#: inc/admin/acf-pro/api/api-helpers.php:3282
+#, php-format
+msgid "File size must be at least %s."
+msgstr ""
+
+#: inc/admin/acf-pro/api/api-helpers.php:3287
+#, php-format
+msgid "File size must must not exceed %s."
+msgstr ""
+
+#: inc/admin/acf-pro/api/api-helpers.php:3321
+#, php-format
+msgid "File type must be %s."
+msgstr ""
+
+#: inc/admin/acf-pro/api/api-template.php:1262
+#: inc/admin/acf-pro/pro/fields/gallery.php:572
+#: inc/classes/class-tgm-plugin-activation.php:2666
+msgid "Update"
+msgstr ""
+
+#: inc/admin/acf-pro/api/api-template.php:1263
+msgid "Post updated"
+msgstr ""
+
+#: inc/admin/acf-pro/core/field.php:131
+msgid "Basic"
+msgstr ""
+
+#: inc/admin/acf-pro/core/field.php:132
+#: inc/admin/plugins/acf-font-awesome/acf-font-awesome-v5.php:25
+#: inc/customizer/sections.php:150
+msgid "Content"
+msgstr ""
+
+#: inc/admin/acf-pro/core/field.php:133
+msgid "Choice"
+msgstr ""
+
+#: inc/admin/acf-pro/core/field.php:134
+msgid "Relational"
+msgstr ""
+
+#: inc/admin/acf-pro/core/field.php:135
+msgid "jQuery"
+msgstr ""
+
+#: inc/admin/acf-pro/core/field.php:136
+#: inc/admin/acf-pro/fields/checkbox.php:226
+#: inc/admin/acf-pro/fields/radio.php:231
+#: inc/admin/acf-pro/pro/fields/flexible-content.php:491
+#: inc/admin/acf-pro/pro/fields/flexible-content.php:540
+#: inc/admin/acf-pro/pro/fields/repeater.php:408
+#: inc/customizer/panel-layout.php:102 inc/customizer/panels.php:30
+msgid "Layout"
+msgstr ""
+
+#: inc/admin/acf-pro/core/input.php:129
+msgid "Expand Details"
+msgstr ""
+
+#: inc/admin/acf-pro/core/input.php:130
+msgid "Collapse Details"
+msgstr ""
+
+#: inc/admin/acf-pro/core/input.php:131
+msgid "Validation successful"
+msgstr ""
+
+#: inc/admin/acf-pro/core/input.php:132
+msgid "Validation failed"
+msgstr ""
+
+#: inc/admin/acf-pro/core/input.php:133
+msgid "1 field requires attention"
+msgstr ""
+
+#: inc/admin/acf-pro/core/input.php:134
+#, php-format
+msgid "%d fields require attention"
+msgstr ""
+
+#: inc/admin/acf-pro/core/input.php:135
+msgid "Restricted"
+msgstr ""
+
+#: inc/admin/acf-pro/core/input.php:533
+#, php-format
+msgid "%s value is required"
+msgstr ""
+
+#: inc/admin/acf-pro/fields/checkbox.php:36
+#: inc/admin/acf-pro/fields/taxonomy.php:773
+msgid "Checkbox"
+msgstr ""
+
+#: inc/admin/acf-pro/fields/checkbox.php:144
+msgid "Toggle All"
+msgstr ""
+
+#: inc/admin/acf-pro/fields/checkbox.php:208
+#: inc/admin/acf-pro/fields/radio.php:193
+#: inc/admin/acf-pro/fields/select.php:373
+#: inc/admin/plugins/acf-image-select/acf-image-select-v5.php:110
+msgid "Choices"
+msgstr ""
+
+#: inc/admin/acf-pro/fields/checkbox.php:209
+#: inc/admin/acf-pro/fields/radio.php:194
+#: inc/admin/acf-pro/fields/select.php:374
+msgid "Enter each choice on a new line."
+msgstr ""
+
+#: inc/admin/acf-pro/fields/checkbox.php:209
+#: inc/admin/acf-pro/fields/radio.php:194
+#: inc/admin/acf-pro/fields/select.php:374
+msgid "For more control, you may specify both a value and label like this:"
+msgstr ""
+
+#: inc/admin/acf-pro/fields/checkbox.php:209
+#: inc/admin/acf-pro/fields/radio.php:194
+#: inc/admin/acf-pro/fields/select.php:374
+msgid "red : Red"
+msgstr ""
+
+#: inc/admin/acf-pro/fields/checkbox.php:217
+#: inc/admin/acf-pro/fields/color_picker.php:158
+#: inc/admin/acf-pro/fields/email.php:124
+#: inc/admin/acf-pro/fields/number.php:150
+#: inc/admin/acf-pro/fields/radio.php:222
+#: inc/admin/acf-pro/fields/select.php:382
+#: inc/admin/acf-pro/fields/text.php:148
+#: inc/admin/acf-pro/fields/textarea.php:145
+#: inc/admin/acf-pro/fields/true_false.php:115
+#: inc/admin/acf-pro/fields/url.php:117
+#: inc/admin/acf-pro/fields/wysiwyg.php:362
+#: inc/admin/plugins/acf-image-select/acf-image-select-v5.php:117
+msgid "Default Value"
+msgstr ""
+
+#: inc/admin/acf-pro/fields/checkbox.php:218
+#: inc/admin/acf-pro/fields/select.php:383
+msgid "Enter each default value on a new line"
+msgstr ""
+
+#: inc/admin/acf-pro/fields/checkbox.php:232
+#: inc/admin/acf-pro/fields/radio.php:237
+msgid "Vertical"
+msgstr ""
+
+#: inc/admin/acf-pro/fields/checkbox.php:233
+#: inc/admin/acf-pro/fields/radio.php:238
+msgid "Horizontal"
+msgstr ""
+
+#: inc/admin/acf-pro/fields/checkbox.php:240
+msgid "Toggle"
+msgstr ""
+
+#: inc/admin/acf-pro/fields/checkbox.php:241
+msgid "Prepend an extra checkbox to toggle all choices"
+msgstr ""
+
+#: inc/admin/acf-pro/fields/color_picker.php:36
+msgid "Color Picker"
+msgstr ""
+
+#: inc/admin/acf-pro/fields/color_picker.php:94
+msgid "Clear"
+msgstr ""
+
+#: inc/admin/acf-pro/fields/color_picker.php:95
+msgid "Default"
+msgstr ""
+
+#: inc/admin/acf-pro/fields/color_picker.php:96
+msgid "Select Color"
+msgstr ""
+
+#: inc/admin/acf-pro/fields/date_picker.php:36
+msgid "Date Picker"
+msgstr ""
+
+#: inc/admin/acf-pro/fields/date_picker.php:72
+msgid "Done"
+msgstr ""
+
+#: inc/admin/acf-pro/fields/date_picker.php:73
+msgid "Today"
+msgstr ""
+
+#: inc/admin/acf-pro/fields/date_picker.php:76
+msgid "Show a different month"
+msgstr ""
+
+#: inc/admin/acf-pro/fields/date_picker.php:149
+msgid "Display format"
+msgstr ""
+
+#: inc/admin/acf-pro/fields/date_picker.php:150
+msgid "The format displayed when editing a post"
+msgstr ""
+
+#: inc/admin/acf-pro/fields/date_picker.php:164
+msgid "Return format"
+msgstr ""
+
+#: inc/admin/acf-pro/fields/date_picker.php:165
+msgid "The format returned via template functions"
+msgstr ""
+
+#: inc/admin/acf-pro/fields/date_picker.php:180
+msgid "Week Starts On"
+msgstr ""
+
+#: inc/admin/acf-pro/fields/email.php:36
+msgid "Email"
+msgstr ""
+
+#: inc/admin/acf-pro/fields/email.php:125
+#: inc/admin/acf-pro/fields/number.php:151
+#: inc/admin/acf-pro/fields/radio.php:223 inc/admin/acf-pro/fields/text.php:149
+#: inc/admin/acf-pro/fields/textarea.php:146
+#: inc/admin/acf-pro/fields/url.php:118
+#: inc/admin/acf-pro/fields/wysiwyg.php:363
+msgid "Appears when creating a new post"
+msgstr ""
+
+#: inc/admin/acf-pro/fields/email.php:133
+#: inc/admin/acf-pro/fields/number.php:159
+#: inc/admin/acf-pro/fields/password.php:137
+#: inc/admin/acf-pro/fields/text.php:157
+#: inc/admin/acf-pro/fields/textarea.php:154
+#: inc/admin/acf-pro/fields/url.php:126
+msgid "Placeholder Text"
+msgstr ""
+
+#: inc/admin/acf-pro/fields/email.php:134
+#: inc/admin/acf-pro/fields/number.php:160
+#: inc/admin/acf-pro/fields/password.php:138
+#: inc/admin/acf-pro/fields/text.php:158
+#: inc/admin/acf-pro/fields/textarea.php:155
+#: inc/admin/acf-pro/fields/url.php:127
+msgid "Appears within the input"
+msgstr ""
+
+#: inc/admin/acf-pro/fields/email.php:142
+#: inc/admin/acf-pro/fields/number.php:168
+#: inc/admin/acf-pro/fields/password.php:146
+#: inc/admin/acf-pro/fields/text.php:166
+msgid "Prepend"
+msgstr ""
+
+#: inc/admin/acf-pro/fields/email.php:143
+#: inc/admin/acf-pro/fields/number.php:169
+#: inc/admin/acf-pro/fields/password.php:147
+#: inc/admin/acf-pro/fields/text.php:167
+msgid "Appears before the input"
+msgstr ""
+
+#: inc/admin/acf-pro/fields/email.php:151
+#: inc/admin/acf-pro/fields/number.php:177
+#: inc/admin/acf-pro/fields/password.php:155
+#: inc/admin/acf-pro/fields/text.php:175
+msgid "Append"
+msgstr ""
+
+#: inc/admin/acf-pro/fields/email.php:152
+#: inc/admin/acf-pro/fields/number.php:178
+#: inc/admin/acf-pro/fields/password.php:156
+#: inc/admin/acf-pro/fields/text.php:176
+msgid "Appears after the input"
+msgstr ""
+
+#: inc/admin/acf-pro/fields/file.php:36
+msgid "File"
+msgstr ""
+
+#: inc/admin/acf-pro/fields/file.php:47
+msgid "Edit File"
+msgstr ""
+
+#: inc/admin/acf-pro/fields/file.php:48
+msgid "Update File"
+msgstr ""
+
+#: inc/admin/acf-pro/fields/file.php:49
+#: inc/admin/acf-pro/pro/fields/gallery.php:55
+msgid "uploaded to this post"
+msgstr ""
+
+#: inc/admin/acf-pro/fields/file.php:142
+msgid "File Name"
+msgstr ""
+
+#: inc/admin/acf-pro/fields/file.php:146
+msgid "File Size"
+msgstr ""
+
+#: inc/admin/acf-pro/fields/file.php:169
+msgid "No File selected"
+msgstr ""
+
+#: inc/admin/acf-pro/fields/file.php:169
+msgid "Add File"
+msgstr ""
+
+#: inc/admin/acf-pro/fields/file.php:214 inc/admin/acf-pro/fields/image.php:195
+#: inc/admin/acf-pro/fields/taxonomy.php:842
+#: inc/admin/plugins/acf-font-awesome/acf-font-awesome-v5.php:154
+msgid "Return Value"
+msgstr ""
+
+#: inc/admin/acf-pro/fields/file.php:215 inc/admin/acf-pro/fields/image.php:196
+#: inc/admin/plugins/acf-font-awesome/acf-font-awesome-v5.php:155
+msgid "Specify the returned value on front end"
+msgstr ""
+
+#: inc/admin/acf-pro/fields/file.php:220
+msgid "File Array"
+msgstr ""
+
+#: inc/admin/acf-pro/fields/file.php:221
+msgid "File URL"
+msgstr ""
+
+#: inc/admin/acf-pro/fields/file.php:222
+msgid "File ID"
+msgstr ""
+
+#: inc/admin/acf-pro/fields/file.php:229 inc/admin/acf-pro/fields/image.php:220
+#: inc/admin/acf-pro/pro/fields/gallery.php:655
+msgid "Library"
+msgstr ""
+
+#: inc/admin/acf-pro/fields/file.php:230 inc/admin/acf-pro/fields/image.php:221
+#: inc/admin/acf-pro/pro/fields/gallery.php:656
+msgid "Limit the media library choice"
+msgstr ""
+
+#: inc/admin/acf-pro/fields/file.php:236 inc/admin/acf-pro/fields/image.php:227
+#: inc/admin/acf-pro/pro/fields/gallery.php:662
+msgid "Uploaded to post"
+msgstr ""
+
+#: inc/admin/acf-pro/fields/file.php:243 inc/admin/acf-pro/fields/image.php:234
+#: inc/admin/acf-pro/pro/fields/gallery.php:669
+msgid "Minimum"
+msgstr ""
+
+#: inc/admin/acf-pro/fields/file.php:244 inc/admin/acf-pro/fields/file.php:255
+msgid "Restrict which files can be uploaded"
+msgstr ""
+
+#: inc/admin/acf-pro/fields/file.php:247 inc/admin/acf-pro/fields/file.php:258
+#: inc/admin/acf-pro/fields/image.php:257
+#: inc/admin/acf-pro/fields/image.php:290
+#: inc/admin/acf-pro/pro/fields/gallery.php:692
+#: inc/admin/acf-pro/pro/fields/gallery.php:725
+msgid "File size"
+msgstr ""
+
+#: inc/admin/acf-pro/fields/file.php:254 inc/admin/acf-pro/fields/image.php:267
+#: inc/admin/acf-pro/pro/fields/gallery.php:702
+msgid "Maximum"
+msgstr ""
+
+#: inc/admin/acf-pro/fields/file.php:265 inc/admin/acf-pro/fields/image.php:300
+#: inc/admin/acf-pro/pro/fields/gallery.php:735
+msgid "Allowed file types"
+msgstr ""
+
+#: inc/admin/acf-pro/fields/file.php:266 inc/admin/acf-pro/fields/image.php:301
+#: inc/admin/acf-pro/pro/fields/gallery.php:736
+msgid "Comma separated list. Leave blank for all types"
+msgstr ""
+
+#: inc/admin/acf-pro/fields/google-map.php:36
+msgid "Google Map"
+msgstr ""
+
+#: inc/admin/acf-pro/fields/google-map.php:51
+msgid "Locating"
+msgstr ""
+
+#: inc/admin/acf-pro/fields/google-map.php:52
+msgid "Sorry, this browser does not support geolocation"
+msgstr ""
+
+#: inc/admin/acf-pro/fields/google-map.php:133
+#: inc/admin/acf-pro/fields/relationship.php:722
+msgid "Search"
+msgstr ""
+
+#: inc/admin/acf-pro/fields/google-map.php:134
+msgid "Clear location"
+msgstr ""
+
+#: inc/admin/acf-pro/fields/google-map.php:135
+msgid "Find current location"
+msgstr ""
+
+#: inc/admin/acf-pro/fields/google-map.php:138
+msgid "Search for address..."
+msgstr ""
+
+#: inc/admin/acf-pro/fields/google-map.php:168
+#: inc/admin/acf-pro/fields/google-map.php:179
+#: inc/customizer/panel-pages.php:89 inc/customizer/panel-pages.php:210
+msgid "Center"
+msgstr ""
+
+#: inc/admin/acf-pro/fields/google-map.php:169
+#: inc/admin/acf-pro/fields/google-map.php:180
+msgid "Center the initial map"
+msgstr ""
+
+#: inc/admin/acf-pro/fields/google-map.php:193
+msgid "Zoom"
+msgstr ""
+
+#: inc/admin/acf-pro/fields/google-map.php:194
+msgid "Set the initial zoom level"
+msgstr ""
+
+#: inc/admin/acf-pro/fields/google-map.php:203
+#: inc/admin/acf-pro/fields/image.php:246
+#: inc/admin/acf-pro/fields/image.php:279
+#: inc/admin/acf-pro/fields/oembed.php:262
+#: inc/admin/acf-pro/pro/fields/gallery.php:681
+#: inc/admin/acf-pro/pro/fields/gallery.php:714
+msgid "Height"
+msgstr ""
+
+#: inc/admin/acf-pro/fields/google-map.php:204
+msgid "Customise the map height"
+msgstr ""
+
+#: inc/admin/acf-pro/fields/image.php:36
+msgid "Image"
+msgstr ""
+
+#: inc/admin/acf-pro/fields/image.php:51
+msgid "Select Image"
+msgstr ""
+
+#: inc/admin/acf-pro/fields/image.php:52
+#: inc/admin/acf-pro/pro/fields/gallery.php:53
+msgid "Edit Image"
+msgstr ""
+
+#: inc/admin/acf-pro/fields/image.php:53
+#: inc/admin/acf-pro/pro/fields/gallery.php:54
+msgid "Update Image"
+msgstr ""
+
+#: inc/admin/acf-pro/fields/image.php:54
+msgid "Uploaded to this post"
+msgstr ""
+
+#: inc/admin/acf-pro/fields/image.php:55
+msgid "All images"
+msgstr ""
+
+#: inc/admin/acf-pro/fields/image.php:147
+msgid "No image selected"
+msgstr ""
+
+#: inc/admin/acf-pro/fields/image.php:147
+msgid "Add Image"
+msgstr ""
+
+#: inc/admin/acf-pro/fields/image.php:201
+msgid "Image Array"
+msgstr ""
+
+#: inc/admin/acf-pro/fields/image.php:202
+msgid "Image URL"
+msgstr ""
+
+#: inc/admin/acf-pro/fields/image.php:203
+msgid "Image ID"
+msgstr ""
+
+#: inc/admin/acf-pro/fields/image.php:210
+#: inc/admin/acf-pro/pro/fields/gallery.php:645
+msgid "Preview Size"
+msgstr ""
+
+#: inc/admin/acf-pro/fields/image.php:211
+#: inc/admin/acf-pro/pro/fields/gallery.php:646
+msgid "Shown when entering data"
+msgstr ""
+
+#: inc/admin/acf-pro/fields/image.php:235
+#: inc/admin/acf-pro/fields/image.php:268
+#: inc/admin/acf-pro/pro/fields/gallery.php:670
+#: inc/admin/acf-pro/pro/fields/gallery.php:703
+msgid "Restrict which images can be uploaded"
+msgstr ""
+
+#: inc/admin/acf-pro/fields/image.php:238
+#: inc/admin/acf-pro/fields/image.php:271
+#: inc/admin/acf-pro/fields/oembed.php:251
+#: inc/admin/acf-pro/pro/fields/gallery.php:673
+#: inc/admin/acf-pro/pro/fields/gallery.php:706
+msgid "Width"
+msgstr ""
+
+#: inc/admin/acf-pro/fields/message.php:36
+#: inc/admin/acf-pro/fields/message.php:116
+#: inc/admin/acf-pro/fields/true_false.php:106
+msgid "Message"
+msgstr ""
+
+#: inc/admin/acf-pro/fields/message.php:125
+#: inc/admin/acf-pro/fields/textarea.php:182
+msgid "New Lines"
+msgstr ""
+
+#: inc/admin/acf-pro/fields/message.php:126
+#: inc/admin/acf-pro/fields/textarea.php:183
+msgid "Controls how new lines are rendered"
+msgstr ""
+
+#: inc/admin/acf-pro/fields/message.php:130
+#: inc/admin/acf-pro/fields/textarea.php:187
+msgid "Automatically add paragraphs"
+msgstr ""
+
+#: inc/admin/acf-pro/fields/message.php:131
+#: inc/admin/acf-pro/fields/textarea.php:188
+msgid "Automatically add &lt;br&gt;"
+msgstr ""
+
+#: inc/admin/acf-pro/fields/message.php:132
+#: inc/admin/acf-pro/fields/textarea.php:189
+msgid "No Formatting"
+msgstr ""
+
+#: inc/admin/acf-pro/fields/message.php:139
+msgid "Escape HTML"
+msgstr ""
+
+#: inc/admin/acf-pro/fields/message.php:140
+msgid "Allow HTML markup to display as visible text instead of rendering"
+msgstr ""
+
+#: inc/admin/acf-pro/fields/number.php:36
+msgid "Number"
+msgstr ""
+
+#: inc/admin/acf-pro/fields/number.php:186
+msgid "Minimum Value"
+msgstr ""
+
+#: inc/admin/acf-pro/fields/number.php:195
+msgid "Maximum Value"
+msgstr ""
+
+#: inc/admin/acf-pro/fields/number.php:204
+msgid "Step Size"
+msgstr ""
+
+#: inc/admin/acf-pro/fields/number.php:242
+msgid "Value must be a number"
+msgstr ""
+
+#: inc/admin/acf-pro/fields/number.php:260
+#, php-format
+msgid "Value must be equal to or higher than %d"
+msgstr ""
+
+#: inc/admin/acf-pro/fields/number.php:268
+#, php-format
+msgid "Value must be equal to or lower than %d"
+msgstr ""
+
+#: inc/admin/acf-pro/fields/oembed.php:36
+msgid "oEmbed"
+msgstr ""
+
+#: inc/admin/acf-pro/fields/oembed.php:199
+msgid "Enter URL"
+msgstr ""
+
+#: inc/admin/acf-pro/fields/oembed.php:212
+msgid "No embed found for the given URL"
+msgstr ""
+
+#: inc/admin/acf-pro/fields/oembed.php:248
+#: inc/admin/acf-pro/fields/oembed.php:259
+msgid "Embed Size"
+msgstr ""
+
+#: inc/admin/acf-pro/fields/page_link.php:197 inc/template-tags.php:201
+msgid "Archives"
+msgstr ""
+
+#: inc/admin/acf-pro/fields/page_link.php:520
+#: inc/admin/acf-pro/fields/post_object.php:386
+#: inc/admin/acf-pro/fields/relationship.php:689
+msgid "Filter by Post Type"
+msgstr ""
+
+#: inc/admin/acf-pro/fields/page_link.php:528
+#: inc/admin/acf-pro/fields/post_object.php:394
+#: inc/admin/acf-pro/fields/relationship.php:697
+msgid "All post types"
+msgstr ""
+
+#: inc/admin/acf-pro/fields/page_link.php:534
+#: inc/admin/acf-pro/fields/post_object.php:400
+#: inc/admin/acf-pro/fields/relationship.php:703
+msgid "Filter by Taxonomy"
+msgstr ""
+
+#: inc/admin/acf-pro/fields/page_link.php:542
+#: inc/admin/acf-pro/fields/post_object.php:408
+#: inc/admin/acf-pro/fields/relationship.php:711
+msgid "All taxonomies"
+msgstr ""
+
+#: inc/admin/acf-pro/fields/page_link.php:548
+#: inc/admin/acf-pro/fields/post_object.php:414
+#: inc/admin/acf-pro/fields/select.php:391
+#: inc/admin/acf-pro/fields/taxonomy.php:786
+#: inc/admin/acf-pro/fields/user.php:452
+#: inc/admin/plugins/acf-contact-form-7/acf-cf7-v5.php:95
+#: inc/admin/plugins/acf-font-awesome/acf-font-awesome-v5.php:167
+msgid "Allow Null?"
+msgstr ""
+
+#: inc/admin/acf-pro/fields/page_link.php:562
+#: inc/admin/acf-pro/fields/post_object.php:428
+#: inc/admin/acf-pro/fields/select.php:405
+#: inc/admin/acf-pro/fields/user.php:466
+msgid "Select multiple values?"
+msgstr ""
+
+#: inc/admin/acf-pro/fields/password.php:36
+msgid "Password"
+msgstr ""
+
+#: inc/admin/acf-pro/fields/post_object.php:36
+#: inc/admin/acf-pro/fields/post_object.php:447
+#: inc/admin/acf-pro/fields/relationship.php:768
+msgid "Post Object"
+msgstr ""
+
+#: inc/admin/acf-pro/fields/post_object.php:442
+#: inc/admin/acf-pro/fields/relationship.php:763
+msgid "Return Format"
+msgstr ""
+
+#: inc/admin/acf-pro/fields/post_object.php:448
+#: inc/admin/acf-pro/fields/relationship.php:769
+msgid "Post ID"
+msgstr ""
+
+#: inc/admin/acf-pro/fields/radio.php:36
+msgid "Radio Button"
+msgstr ""
+
+#: inc/admin/acf-pro/fields/radio.php:202
+msgid "Other"
+msgstr ""
+
+#: inc/admin/acf-pro/fields/radio.php:206
+msgid "Add 'other' choice to allow for custom values"
+msgstr ""
+
+#: inc/admin/acf-pro/fields/radio.php:212
+msgid "Save Other"
+msgstr ""
+
+#: inc/admin/acf-pro/fields/radio.php:216
+msgid "Save 'other' values to the field's choices"
+msgstr ""
+
+#: inc/admin/acf-pro/fields/relationship.php:36
+msgid "Relationship"
+msgstr ""
+
+#: inc/admin/acf-pro/fields/relationship.php:48
+msgid "Minimum values reached ( {min} values )"
+msgstr ""
+
+#: inc/admin/acf-pro/fields/relationship.php:49
+msgid "Maximum values reached ( {max} values )"
+msgstr ""
+
+#: inc/admin/acf-pro/fields/relationship.php:50
+msgid "Loading"
+msgstr ""
+
+#: inc/admin/acf-pro/fields/relationship.php:51
+msgid "No matches found"
+msgstr ""
+
+#: inc/admin/acf-pro/fields/relationship.php:570
+msgid "Search..."
+msgstr ""
+
+#: inc/admin/acf-pro/fields/relationship.php:579
+msgid "Select post type"
+msgstr ""
+
+#: inc/admin/acf-pro/fields/relationship.php:592
+msgid "Select taxonomy"
+msgstr ""
+
+#: inc/admin/acf-pro/fields/relationship.php:724
+#: inc/admin/acf-pro/fields/taxonomy.php:36
+#: inc/admin/acf-pro/fields/taxonomy.php:756
+msgid "Taxonomy"
+msgstr ""
+
+#: inc/admin/acf-pro/fields/relationship.php:731
+msgid "Elements"
+msgstr ""
+
+#: inc/admin/acf-pro/fields/relationship.php:732
+msgid "Selected elements will be displayed in each result"
+msgstr ""
+
+#: inc/admin/acf-pro/fields/relationship.php:743
+msgid "Minimum posts"
+msgstr ""
+
+#: inc/admin/acf-pro/fields/relationship.php:752
+msgid "Maximum posts"
+msgstr ""
+
+#: inc/admin/acf-pro/fields/relationship.php:856
+#: inc/admin/acf-pro/pro/fields/gallery.php:817
+#, php-format
+msgid "%s requires at least %s selection"
+msgid_plural "%s requires at least %s selections"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/admin/acf-pro/fields/select.php:36
+#: inc/admin/acf-pro/fields/select.php:174
+#: inc/admin/acf-pro/fields/taxonomy.php:778
+#: inc/admin/plugins/acf-font-awesome/acf-font-awesome-v5.php:236
+msgid "Select"
+msgstr ""
+
+#: inc/admin/acf-pro/fields/select.php:419
+msgid "Stylised UI"
+msgstr ""
+
+#: inc/admin/acf-pro/fields/select.php:433
+msgid "Use AJAX to lazy load choices?"
+msgstr ""
+
+#: inc/admin/acf-pro/fields/tab.php:36
+msgid "Tab"
+msgstr ""
+
+#: inc/admin/acf-pro/fields/tab.php:128
+msgid ""
+"The tab field will display incorrectly when added to a Table style repeater "
+"field or flexible content field layout"
+msgstr ""
+
+#: inc/admin/acf-pro/fields/tab.php:129
+msgid ""
+"Use \"Tab Fields\" to better organize your edit screen by grouping fields "
+"together."
+msgstr ""
+
+#: inc/admin/acf-pro/fields/tab.php:130
+msgid ""
+"All fields following this \"tab field\" (or until another \"tab field\" is "
+"defined) will be grouped together using this field's label as the tab "
+"heading."
+msgstr ""
+
+#: inc/admin/acf-pro/fields/tab.php:144
+msgid "Placement"
+msgstr ""
+
+#: inc/admin/acf-pro/fields/tab.php:156
+msgid "End-point"
+msgstr ""
+
+#: inc/admin/acf-pro/fields/tab.php:157
+msgid "Use this field as an end-point and start a new group of tabs"
+msgstr ""
+
+#: inc/admin/acf-pro/fields/taxonomy.php:586
+#, php-format
+msgid "Add new %s "
+msgstr ""
+
+#: inc/admin/acf-pro/fields/taxonomy.php:725
+#: inc/customizer/panel-typography.php:204
+#: inc/customizer/panel-typography.php:260
+#: inc/customizer/panel-typography.php:284
+#: inc/customizer/panel-typography.php:400
+#: inc/customizer/panel-typography.php:509
+#: inc/customizer/panel-typography.php:596
+#: inc/customizer/panel-typography.php:674
+#: inc/customizer/panel-typography.php:777
+#: inc/customizer/panel-typography.php:854
+#: inc/customizer/panel-typography.php:970
+#: inc/customizer/panel-typography.php:1081
+#: inc/customizer/panel-typography.php:1192
+#: inc/customizer/panel-typography.php:1303
+#: inc/customizer/panel-typography.php:1414
+#: inc/customizer/panel-typography.php:1525
+#: inc/customizer/panel-typography.php:1617
+#: inc/customizer/panel-typography.php:1701
+msgid "None"
+msgstr ""
+
+#: inc/admin/acf-pro/fields/taxonomy.php:757
+msgid "Select the taxonomy to be displayed"
+msgstr ""
+
+#: inc/admin/acf-pro/fields/taxonomy.php:766
+msgid "Appearance"
+msgstr ""
+
+#: inc/admin/acf-pro/fields/taxonomy.php:767
+msgid "Select the appearance of this field"
+msgstr ""
+
+#: inc/admin/acf-pro/fields/taxonomy.php:772
+msgid "Multiple Values"
+msgstr ""
+
+#: inc/admin/acf-pro/fields/taxonomy.php:774
+msgid "Multi Select"
+msgstr ""
+
+#: inc/admin/acf-pro/fields/taxonomy.php:776
+msgid "Single Value"
+msgstr ""
+
+#: inc/admin/acf-pro/fields/taxonomy.php:777
+msgid "Radio Buttons"
+msgstr ""
+
+#: inc/admin/acf-pro/fields/taxonomy.php:800
+msgid "Create Terms"
+msgstr ""
+
+#: inc/admin/acf-pro/fields/taxonomy.php:801
+msgid "Allow new terms to be created whilst editing"
+msgstr ""
+
+#: inc/admin/acf-pro/fields/taxonomy.php:814
+msgid "Save Terms"
+msgstr ""
+
+#: inc/admin/acf-pro/fields/taxonomy.php:815
+msgid "Connect selected terms to the post"
+msgstr ""
+
+#: inc/admin/acf-pro/fields/taxonomy.php:828
+msgid "Load Terms"
+msgstr ""
+
+#: inc/admin/acf-pro/fields/taxonomy.php:829
+msgid "Load value from posts terms"
+msgstr ""
+
+#: inc/admin/acf-pro/fields/taxonomy.php:847
+msgid "Term Object"
+msgstr ""
+
+#: inc/admin/acf-pro/fields/taxonomy.php:848
+msgid "Term ID"
+msgstr ""
+
+#: inc/admin/acf-pro/fields/taxonomy.php:907
+#, php-format
+msgid "User unable to add new %s"
+msgstr ""
+
+#: inc/admin/acf-pro/fields/taxonomy.php:920
+#, php-format
+msgid "%s already exists"
+msgstr ""
+
+#: inc/admin/acf-pro/fields/taxonomy.php:961
+#, php-format
+msgid "%s added"
+msgstr ""
+
+#: inc/admin/acf-pro/fields/taxonomy.php:1006
+msgid "Add"
+msgstr ""
+
+#: inc/admin/acf-pro/fields/text.php:36
+msgid "Text"
+msgstr ""
+
+#: inc/admin/acf-pro/fields/text.php:184
+#: inc/admin/acf-pro/fields/textarea.php:163
+msgid "Character Limit"
+msgstr ""
+
+#: inc/admin/acf-pro/fields/text.php:185
+#: inc/admin/acf-pro/fields/textarea.php:164
+msgid "Leave blank for no limit"
+msgstr ""
+
+#: inc/admin/acf-pro/fields/textarea.php:36
+msgid "Text Area"
+msgstr ""
+
+#: inc/admin/acf-pro/fields/textarea.php:172
+msgid "Rows"
+msgstr ""
+
+#: inc/admin/acf-pro/fields/textarea.php:173
+msgid "Sets the textarea height"
+msgstr ""
+
+#: inc/admin/acf-pro/fields/true_false.php:36
+msgid "True / False"
+msgstr ""
+
+#: inc/admin/acf-pro/fields/true_false.php:107
+msgid "eg. Show extra content"
+msgstr ""
+
+#: inc/admin/acf-pro/fields/url.php:36
+msgid "Url"
+msgstr ""
+
+#: inc/admin/acf-pro/fields/url.php:168
+msgid "Value must be a valid URL"
+msgstr ""
+
+#: inc/admin/acf-pro/fields/user.php:437
+msgid "Filter by role"
+msgstr ""
+
+#: inc/admin/acf-pro/fields/user.php:445
+msgid "All user roles"
+msgstr ""
+
+#: inc/admin/acf-pro/fields/wysiwyg.php:37
+msgid "Wysiwyg Editor"
+msgstr ""
+
+#: inc/admin/acf-pro/fields/wysiwyg.php:314
+msgid "Visual"
+msgstr ""
+
+#: inc/admin/acf-pro/fields/wysiwyg.php:315
+msgctxt "Name for the Text editor tab (formerly HTML)"
+msgid "Text"
+msgstr ""
+
+#: inc/admin/acf-pro/fields/wysiwyg.php:371
+msgid "Tabs"
+msgstr ""
+
+#: inc/admin/acf-pro/fields/wysiwyg.php:376
+msgid "Visual & Text"
+msgstr ""
+
+#: inc/admin/acf-pro/fields/wysiwyg.php:377
+msgid "Visual Only"
+msgstr ""
+
+#: inc/admin/acf-pro/fields/wysiwyg.php:378
+msgid "Text Only"
+msgstr ""
+
+#: inc/admin/acf-pro/fields/wysiwyg.php:385
+msgid "Toolbar"
+msgstr ""
+
+#: inc/admin/acf-pro/fields/wysiwyg.php:395
+msgid "Show Media Upload Buttons?"
+msgstr ""
+
+#: inc/admin/acf-pro/forms/post.php:298
+#: inc/admin/acf-pro/pro/admin/options-page.php:374
+msgid "Edit field group"
+msgstr ""
+
+#: inc/admin/acf-pro/pro/acf-pro.php:24
+msgid "Advanced Custom Fields PRO"
+msgstr ""
+
+#: inc/admin/acf-pro/pro/acf-pro.php:175
+msgid "Flexible Content requires at least 1 layout"
+msgstr ""
+
+#: inc/admin/acf-pro/pro/admin/options-page.php:48
+msgid "Options Page"
+msgstr ""
+
+#: inc/admin/acf-pro/pro/admin/options-page.php:83
+msgid "No options pages exist"
+msgstr ""
+
+#: inc/admin/acf-pro/pro/admin/options-page.php:298
+msgid "Options Updated"
+msgstr ""
+
+#: inc/admin/acf-pro/pro/admin/options-page.php:304
+msgid "No Custom Field Groups found for this options page"
+msgstr ""
+
+#: inc/admin/acf-pro/pro/admin/options-page.php:304
+msgid "Create a Custom Field Group"
+msgstr ""
+
+#: inc/admin/acf-pro/pro/admin/settings-updates.php:137
+msgid "<b>Error</b>. Could not connect to update server"
+msgstr ""
+
+#: inc/admin/acf-pro/pro/admin/settings-updates.php:267
+#: inc/admin/acf-pro/pro/admin/settings-updates.php:338
+msgid "<b>Connection Error</b>. Sorry, please try again"
+msgstr ""
+
+#: inc/admin/acf-pro/pro/admin/views/options-page.php:48
+msgid "Publish"
+msgstr ""
+
+#: inc/admin/acf-pro/pro/admin/views/options-page.php:54
+msgid "Save Options"
+msgstr ""
+
+#: inc/admin/acf-pro/pro/admin/views/settings-updates.php:11
+msgid "Deactivate License"
+msgstr ""
+
+#: inc/admin/acf-pro/pro/admin/views/settings-updates.php:11
+msgid "Activate License"
+msgstr ""
+
+#: inc/admin/acf-pro/pro/admin/views/settings-updates.php:21
+msgid "License"
+msgstr ""
+
+#: inc/admin/acf-pro/pro/admin/views/settings-updates.php:24
+msgid ""
+"To unlock updates, please enter your license key below. If you don't have a "
+"licence key, please see"
+msgstr ""
+
+#: inc/admin/acf-pro/pro/admin/views/settings-updates.php:24
+msgid "details & pricing"
+msgstr ""
+
+#: inc/admin/acf-pro/pro/admin/views/settings-updates.php:33
+msgid "License Key"
+msgstr ""
+
+#: inc/admin/acf-pro/pro/admin/views/settings-updates.php:65
+msgid "Update Information"
+msgstr ""
+
+#: inc/admin/acf-pro/pro/admin/views/settings-updates.php:72
+msgid "Current Version"
+msgstr ""
+
+#: inc/admin/acf-pro/pro/admin/views/settings-updates.php:80
+msgid "Latest Version"
+msgstr ""
+
+#: inc/admin/acf-pro/pro/admin/views/settings-updates.php:88
+msgid "Update Available"
+msgstr ""
+
+#: inc/admin/acf-pro/pro/admin/views/settings-updates.php:96
+msgid "Update Plugin"
+msgstr ""
+
+#: inc/admin/acf-pro/pro/admin/views/settings-updates.php:98
+msgid "Please enter your license key above to unlock updates"
+msgstr ""
+
+#: inc/admin/acf-pro/pro/admin/views/settings-updates.php:104
+msgid "Check Again"
+msgstr ""
+
+#: inc/admin/acf-pro/pro/admin/views/settings-updates.php:121
+msgid "Upgrade Notice"
+msgstr ""
+
+#: inc/admin/acf-pro/pro/api/api-options-page.php:22
+#: inc/admin/acf-pro/pro/api/api-options-page.php:23
+msgid "Options"
+msgstr ""
+
+#: inc/admin/acf-pro/pro/core/updates.php:186
+#, php-format
+msgid ""
+"To enable updates, please enter your license key on the <a href=\"%s"
+"\">Updates</a> page. If you don't have a licence key, please see <a href=\"%s"
+"\">details & pricing</a>"
+msgstr ""
+
+#: inc/admin/acf-pro/pro/fields/flexible-content.php:36
+msgid "Flexible Content"
+msgstr ""
+
+#: inc/admin/acf-pro/pro/fields/flexible-content.php:42
+#: inc/admin/acf-pro/pro/fields/repeater.php:43
+msgid "Add Row"
+msgstr ""
+
+#: inc/admin/acf-pro/pro/fields/flexible-content.php:45
+msgid "layout"
+msgstr ""
+
+#: inc/admin/acf-pro/pro/fields/flexible-content.php:46
+msgid "layouts"
+msgstr ""
+
+#: inc/admin/acf-pro/pro/fields/flexible-content.php:47
+msgid "remove {layout}?"
+msgstr ""
+
+#: inc/admin/acf-pro/pro/fields/flexible-content.php:48
+msgid "This field requires at least {min} {identifier}"
+msgstr ""
+
+#: inc/admin/acf-pro/pro/fields/flexible-content.php:49
+msgid "This field has a limit of {max} {identifier}"
+msgstr ""
+
+#: inc/admin/acf-pro/pro/fields/flexible-content.php:50
+msgid "This field requires at least {min} {label} {identifier}"
+msgstr ""
+
+#: inc/admin/acf-pro/pro/fields/flexible-content.php:51
+msgid "Maximum {label} limit reached ({max} {identifier})"
+msgstr ""
+
+#: inc/admin/acf-pro/pro/fields/flexible-content.php:52
+msgid "{available} {label} {identifier} available (max {max})"
+msgstr ""
+
+#: inc/admin/acf-pro/pro/fields/flexible-content.php:53
+msgid "{required} {label} {identifier} required (min {min})"
+msgstr ""
+
+#: inc/admin/acf-pro/pro/fields/flexible-content.php:211
+#, php-format
+msgid "Click the \"%s\" button below to start creating your layout"
+msgstr ""
+
+#: inc/admin/acf-pro/pro/fields/flexible-content.php:344
+msgid "Add layout"
+msgstr ""
+
+#: inc/admin/acf-pro/pro/fields/flexible-content.php:347
+msgid "Remove layout"
+msgstr ""
+
+#: inc/admin/acf-pro/pro/fields/flexible-content.php:350
+#: inc/admin/acf-pro/pro/fields/flexible-content.php:353
+msgid "Click to toggle"
+msgstr ""
+
+#: inc/admin/acf-pro/pro/fields/flexible-content.php:493
+msgid "Reorder Layout"
+msgstr ""
+
+#: inc/admin/acf-pro/pro/fields/flexible-content.php:493
+msgid "Reorder"
+msgstr ""
+
+#: inc/admin/acf-pro/pro/fields/flexible-content.php:494
+msgid "Delete Layout"
+msgstr ""
+
+#: inc/admin/acf-pro/pro/fields/flexible-content.php:495
+msgid "Duplicate Layout"
+msgstr ""
+
+#: inc/admin/acf-pro/pro/fields/flexible-content.php:496
+msgid "Add New Layout"
+msgstr ""
+
+#: inc/admin/acf-pro/pro/fields/flexible-content.php:550
+#: inc/admin/acf-pro/pro/fields/repeater.php:415
+msgid "Table"
+msgstr ""
+
+#: inc/admin/acf-pro/pro/fields/flexible-content.php:551
+#: inc/admin/acf-pro/pro/fields/repeater.php:416
+msgid "Block"
+msgstr ""
+
+#: inc/admin/acf-pro/pro/fields/flexible-content.php:552
+#: inc/admin/acf-pro/pro/fields/repeater.php:417
+msgid "Row"
+msgstr ""
+
+#: inc/admin/acf-pro/pro/fields/flexible-content.php:567
+msgid "Min"
+msgstr ""
+
+#: inc/admin/acf-pro/pro/fields/flexible-content.php:580
+msgid "Max"
+msgstr ""
+
+#: inc/admin/acf-pro/pro/fields/flexible-content.php:608
+#: inc/admin/acf-pro/pro/fields/repeater.php:424
+msgid "Button Label"
+msgstr ""
+
+#: inc/admin/acf-pro/pro/fields/flexible-content.php:617
+msgid "Minimum Layouts"
+msgstr ""
+
+#: inc/admin/acf-pro/pro/fields/flexible-content.php:626
+msgid "Maximum Layouts"
+msgstr ""
+
+#: inc/admin/acf-pro/pro/fields/gallery.php:36
+msgid "Gallery"
+msgstr ""
+
+#: inc/admin/acf-pro/pro/fields/gallery.php:52
+msgid "Add Image to Gallery"
+msgstr ""
+
+#: inc/admin/acf-pro/pro/fields/gallery.php:56
+msgid "Maximum selection reached"
+msgstr ""
+
+#: inc/admin/acf-pro/pro/fields/gallery.php:343
+msgid "Length"
+msgstr ""
+
+#: inc/admin/acf-pro/pro/fields/gallery.php:363
+msgid "Remove"
+msgstr ""
+
+#: inc/admin/acf-pro/pro/fields/gallery.php:543
+msgid "Add to gallery"
+msgstr ""
+
+#: inc/admin/acf-pro/pro/fields/gallery.php:547
+msgid "Bulk actions"
+msgstr ""
+
+#: inc/admin/acf-pro/pro/fields/gallery.php:548
+msgid "Sort by date uploaded"
+msgstr ""
+
+#: inc/admin/acf-pro/pro/fields/gallery.php:549
+msgid "Sort by date modified"
+msgstr ""
+
+#: inc/admin/acf-pro/pro/fields/gallery.php:550
+msgid "Sort by title"
+msgstr ""
+
+#: inc/admin/acf-pro/pro/fields/gallery.php:551
+msgid "Reverse current order"
+msgstr ""
+
+#: inc/admin/acf-pro/pro/fields/gallery.php:569
+msgid "Close"
+msgstr ""
+
+#: inc/admin/acf-pro/pro/fields/gallery.php:627
+msgid "Minimum Selection"
+msgstr ""
+
+#: inc/admin/acf-pro/pro/fields/gallery.php:636
+msgid "Maximum Selection"
+msgstr ""
+
+#: inc/admin/acf-pro/pro/fields/repeater.php:36
+msgid "Repeater"
+msgstr ""
+
+#: inc/admin/acf-pro/pro/fields/repeater.php:46
+msgid "Minimum rows reached ({min} rows)"
+msgstr ""
+
+#: inc/admin/acf-pro/pro/fields/repeater.php:47
+msgid "Maximum rows reached ({max} rows)"
+msgstr ""
+
+#: inc/admin/acf-pro/pro/fields/repeater.php:275
+msgid "Drag to reorder"
+msgstr ""
+
+#: inc/admin/acf-pro/pro/fields/repeater.php:317
+msgid "Add row"
+msgstr ""
+
+#: inc/admin/acf-pro/pro/fields/repeater.php:318
+msgid "Remove row"
+msgstr ""
+
+#: inc/admin/acf-pro/pro/fields/repeater.php:366
+msgid "Sub Fields"
+msgstr ""
+
+#: inc/admin/acf-pro/pro/fields/repeater.php:388
+msgid "Minimum Rows"
+msgstr ""
+
+#: inc/admin/acf-pro/pro/fields/repeater.php:398
+msgid "Maximum Rows"
+msgstr ""
+
+#: inc/admin/plugins/acf-contact-form-7/acf-cf7-v5.php:32
+msgid "Contact Form 7"
+msgstr ""
+
+#: inc/admin/plugins/acf-contact-form-7/acf-cf7-v5.php:59
+#: inc/admin/plugins/acf-image-select/acf-image-select-v5.php:61
+msgid "Error! Please enter a higher value"
+msgstr ""
+
+#: inc/admin/plugins/acf-contact-form-7/acf-cf7-v5.php:106
+msgid "Select Multiple?"
+msgstr ""
+
+#: inc/admin/plugins/acf-contact-form-7/acf-cf7-v5.php:126
+msgid "Disable Forms?"
+msgstr ""
+
+#: inc/admin/plugins/acf-contact-form-7/acf-cf7-v5.php:127
+msgid "User will not be able to select these forms"
+msgstr ""
+
+#: inc/admin/plugins/acf-font-awesome/acf-font-awesome-v5.php:24
+msgid "Font Awesome Icon"
+msgstr ""
+
+#: inc/admin/plugins/acf-font-awesome/acf-font-awesome-v5.php:137
+msgid "Live Preview"
+msgstr ""
+
+#: inc/admin/plugins/acf-font-awesome/acf-font-awesome-v5.php:145
+msgid "Default Icon"
+msgstr ""
+
+#: inc/admin/plugins/acf-font-awesome/acf-font-awesome-v5.php:159
+msgid "Icon Element"
+msgstr ""
+
+#: inc/admin/plugins/acf-font-awesome/acf-font-awesome-v5.php:160
+msgid "Icon Class"
+msgstr ""
+
+#: inc/admin/plugins/acf-font-awesome/acf-font-awesome-v5.php:161
+msgid "Icon Unicode"
+msgstr ""
+
+#: inc/admin/plugins/acf-font-awesome/acf-font-awesome-v5.php:162
+msgid "Icon Object"
+msgstr ""
+
+#: inc/admin/plugins/acf-font-awesome/acf-font-awesome-v5.php:178
+msgid "Enqueue FontAwesome?"
+msgstr ""
+
+#: inc/admin/plugins/acf-font-awesome/acf-font-awesome-v5.php:179
+msgid "Set to 'Yes' to enqueue FA in the footer on any pages using this field."
+msgstr ""
+
+#: inc/admin/plugins/acf-font-awesome/better-font-awesome-library/better-font-awesome-library.php:493
+msgid "The jsDelivr API servers appear to be temporarily unavailable."
+msgstr ""
+
+#: inc/admin/plugins/acf-font-awesome/better-font-awesome-library/better-font-awesome-library.php:1062
+msgid "Better Font Awesome"
+msgstr ""
+
+#: inc/admin/plugins/acf-font-awesome/better-font-awesome-library/better-font-awesome-library.php:1068
+msgid "API Error"
+msgstr ""
+
+#: inc/admin/plugins/acf-font-awesome/better-font-awesome-library/better-font-awesome-library.php:1070
+#, php-format
+msgid ""
+"The attempt to reach the jsDelivr API server failed with the following "
+"error: %s"
+msgstr ""
+
+#: inc/admin/plugins/acf-font-awesome/better-font-awesome-library/better-font-awesome-library.php:1080
+msgid "Remote CSS Error"
+msgstr ""
+
+#: inc/admin/plugins/acf-font-awesome/better-font-awesome-library/better-font-awesome-library.php:1082
+#, php-format
+msgid ""
+"The attempt to fetch the remote Font Awesome stylesheet failed with the "
+"following error: %s %s The embedded fallback Font Awesome will be used "
+"instead (version: %s)."
+msgstr ""
+
+#: inc/admin/plugins/acf-font-awesome/better-font-awesome-library/better-font-awesome-library.php:1092
+msgid ""
+"<b>Don't worry! Better Font Awesome will still render using the included "
+"fallback version:</b> "
+msgstr ""
+
+#: inc/admin/plugins/acf-font-awesome/better-font-awesome-library/better-font-awesome-library.php:1096
+msgid "Solution"
+msgstr ""
+
+#: inc/admin/plugins/acf-font-awesome/better-font-awesome-library/better-font-awesome-library.php:1098
+#, php-format
+msgid ""
+"This may be the result of a temporary server or connectivity issue which "
+"will resolve shortly. However if the problem persists please file a support "
+"ticket on the %splugin forum%s, citing the errors listed above. "
+msgstr ""
+
+#: inc/admin/plugins/acf-image-select/acf-image-select-v5.php:32
+msgid "Image Select"
+msgstr ""
+
+#: inc/admin/plugins/acf-image-select/acf-image-select-v5.php:111
+msgid ""
+"Enter your choices one per line <br /> Red <br /> Blue <br /> red : Red <br /"
+"> blue : Blue <br /><span style=\"color:#BC0B0B\">Please note:</span> The "
+"first value of each choices will used as name of image.<br />Like for "
+"\"<strong>Blue</strong>\" or \"<strong>blue : Blue</strong>\", the image "
+"name will be \"<strong>blue.png</strong>\""
+msgstr ""
+
+#: inc/admin/plugins/acf-image-select/acf-image-select-v5.php:123
+msgid "Allow Multiple Choices?"
+msgstr ""
+
+#: inc/admin/plugins/acf-image-select/acf-image-select-v5.php:134
+msgid "Image Path"
+msgstr ""
+
+#: inc/admin/plugins/acf-image-select/acf-image-select-v5.php:135
+msgid "Enter folder URL for images <b>based on current theme</b>."
+msgstr ""
+
+#: inc/admin/plugins/acf-image-select/acf-image-select-v5.php:141
+msgid "Image Extension"
+msgstr ""
+
+#: inc/classes/class-extend-recent-posts-widget.php:18
+msgid "Recent Posts"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:303
+msgid "Install Required Plugins"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:368
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:369
+msgid "Return to the dashboard"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:371
+#: inc/classes/class-tgm-plugin-activation.php:2873
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/classes/class-tgm-plugin-activation.php:372
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:373
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:374
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:375
+msgid "Dismiss this notice"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:376
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:1937
+#, php-format
+msgctxt "%s = version number"
+msgid "TGMPA v%s"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2218
+msgid "Required"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2221
+msgid "Recommended"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2238
+msgid "WordPress Repository"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2242
+msgid "External Source"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2246
+msgid "Pre-Packaged"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2265
+msgid "Not Installed"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2269
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2277
+msgid "Required Update not Available"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2280
+msgid "Requires Update"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2283
+msgid "Update recommended"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2291
+#, php-format
+msgctxt "%1$s = install status, %2$s = update status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2344
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2348
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2352
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2445
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2453
+msgid "Installed version:"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2461
+msgid "Minimum required version:"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2473
+msgid "Available version:"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2497
+#, php-format
+msgid ""
+"No plugins to install, update or activate. <a href=\"%1$s\">Return to the "
+"Dashboard</a>"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2513
+msgid "Plugin"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2514
+msgid "Source"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2519
+msgid "Version"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2544
+#, php-format
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Install %2$s"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2550
+#, php-format
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Update %2$s"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2556
+#, php-format
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Activate %2$s"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2660
+msgid "Install"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2669
+msgid "Activate"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2730
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2732
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:3051
+msgid "Plugin activation failed."
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:3390
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:3394
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:3395
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:3399
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:3400
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:3401
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:3402
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:3406
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:3408
+msgid "All installations have been completed."
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:3409
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/customizer/config.php:16
+#: inc/customizer/kirki/includes/class-kirki-toolkit.php:52
+#: inc/customizer/panel-colors.php:194 inc/customizer/panel-colors.php:337
+#: inc/customizer/panel-colors.php:499 inc/customizer/panel-colors.php:596
+#: inc/customizer/panel-pages.php:17 inc/customizer/panel-pages.php:135
+#: inc/customizer/panel-pages.php:241
+msgid "Background Color"
+msgstr ""
+
+#: inc/customizer/config.php:17
+#: inc/customizer/kirki/includes/class-kirki-toolkit.php:53
+#: inc/customizer/panel-layout.php:51 inc/customizer/panel-layout.php:77
+msgid "Background Image"
+msgstr ""
+
+#: inc/customizer/config.php:18
+#: inc/customizer/kirki/includes/class-kirki-toolkit.php:54
+msgid "No Repeat"
+msgstr ""
+
+#: inc/customizer/config.php:19
+#: inc/customizer/kirki/includes/class-kirki-toolkit.php:55
+msgid "Repeat All"
+msgstr ""
+
+#: inc/customizer/config.php:20
+#: inc/customizer/kirki/includes/class-kirki-toolkit.php:56
+msgid "Repeat Horizontally"
+msgstr ""
+
+#: inc/customizer/config.php:21
+#: inc/customizer/kirki/includes/class-kirki-toolkit.php:57
+msgid "Repeat Vertically"
+msgstr ""
+
+#: inc/customizer/config.php:22
+#: inc/customizer/kirki/includes/class-kirki-toolkit.php:58
+msgid "Inherit"
+msgstr ""
+
+#: inc/customizer/config.php:23
+#: inc/customizer/kirki/includes/class-kirki-toolkit.php:59
+msgid "Background Repeat"
+msgstr ""
+
+#: inc/customizer/config.php:24
+#: inc/customizer/kirki/includes/class-kirki-toolkit.php:60
+msgid "Cover"
+msgstr ""
+
+#: inc/customizer/config.php:25
+#: inc/customizer/kirki/includes/class-kirki-toolkit.php:61
+msgid "Contain"
+msgstr ""
+
+#: inc/customizer/config.php:26
+#: inc/customizer/kirki/includes/class-kirki-toolkit.php:62
+msgid "Background Size"
+msgstr ""
+
+#: inc/customizer/config.php:27
+#: inc/customizer/kirki/includes/class-kirki-toolkit.php:63
+msgid "Fixed"
+msgstr ""
+
+#: inc/customizer/config.php:28
+#: inc/customizer/kirki/includes/class-kirki-toolkit.php:64
+msgid "Scroll"
+msgstr ""
+
+#: inc/customizer/config.php:29
+#: inc/customizer/kirki/includes/class-kirki-toolkit.php:65
+msgid "Background Attachment"
+msgstr ""
+
+#: inc/customizer/config.php:30
+#: inc/customizer/kirki/includes/class-kirki-toolkit.php:66
+msgid "Left Top"
+msgstr ""
+
+#: inc/customizer/config.php:31
+#: inc/customizer/kirki/includes/class-kirki-toolkit.php:67
+msgid "Left Center"
+msgstr ""
+
+#: inc/customizer/config.php:32
+#: inc/customizer/kirki/includes/class-kirki-toolkit.php:68
+msgid "Left Bottom"
+msgstr ""
+
+#: inc/customizer/config.php:33
+#: inc/customizer/kirki/includes/class-kirki-toolkit.php:69
+msgid "Right Top"
+msgstr ""
+
+#: inc/customizer/config.php:34
+#: inc/customizer/kirki/includes/class-kirki-toolkit.php:70
+msgid "Right Center"
+msgstr ""
+
+#: inc/customizer/config.php:35
+#: inc/customizer/kirki/includes/class-kirki-toolkit.php:71
+msgid "Right Bottom"
+msgstr ""
+
+#: inc/customizer/config.php:36
+#: inc/customizer/kirki/includes/class-kirki-toolkit.php:72
+msgid "Center Top"
+msgstr ""
+
+#: inc/customizer/config.php:37
+#: inc/customizer/kirki/includes/class-kirki-toolkit.php:73
+msgid "Center Center"
+msgstr ""
+
+#: inc/customizer/config.php:38
+#: inc/customizer/kirki/includes/class-kirki-toolkit.php:74
+msgid "Center Bottom"
+msgstr ""
+
+#: inc/customizer/config.php:39
+#: inc/customizer/kirki/includes/class-kirki-toolkit.php:75
+msgid "Background Position"
+msgstr ""
+
+#: inc/customizer/config.php:40
+#: inc/customizer/kirki/includes/class-kirki-toolkit.php:76
+msgid "Background Opacity"
+msgstr ""
+
+#: inc/customizer/config.php:41
+#: inc/customizer/kirki/includes/class-kirki-toolkit.php:77
+msgid "ON"
+msgstr ""
+
+#: inc/customizer/config.php:42
+#: inc/customizer/kirki/includes/class-kirki-toolkit.php:78
+msgid "OFF"
+msgstr ""
+
+#: inc/customizer/config.php:44
+#: inc/customizer/kirki/includes/class-kirki-toolkit.php:80
+msgid "Cyrillic"
+msgstr ""
+
+#: inc/customizer/config.php:45
+#: inc/customizer/kirki/includes/class-kirki-toolkit.php:81
+msgid "Cyrillic Extended"
+msgstr ""
+
+#: inc/customizer/config.php:46
+#: inc/customizer/kirki/includes/class-kirki-toolkit.php:82
+msgid "Devanagari"
+msgstr ""
+
+#: inc/customizer/config.php:47
+#: inc/customizer/kirki/includes/class-kirki-toolkit.php:83
+msgid "Greek"
+msgstr ""
+
+#: inc/customizer/config.php:48
+#: inc/customizer/kirki/includes/class-kirki-toolkit.php:84
+msgid "Greek Extended"
+msgstr ""
+
+#: inc/customizer/config.php:49
+#: inc/customizer/kirki/includes/class-kirki-toolkit.php:85
+msgid "Khmer"
+msgstr ""
+
+#: inc/customizer/config.php:50
+#: inc/customizer/kirki/includes/class-kirki-toolkit.php:86
+msgid "Latin"
+msgstr ""
+
+#: inc/customizer/config.php:51
+#: inc/customizer/kirki/includes/class-kirki-toolkit.php:87
+msgid "Latin Extended"
+msgstr ""
+
+#: inc/customizer/config.php:52
+#: inc/customizer/kirki/includes/class-kirki-toolkit.php:88
+msgid "Vietnamese"
+msgstr ""
+
+#: inc/customizer/config.php:53
+#: inc/customizer/kirki/includes/class-kirki-toolkit.php:89
+msgctxt "font style"
+msgid "Serif"
+msgstr ""
+
+#: inc/customizer/config.php:54
+#: inc/customizer/kirki/includes/class-kirki-toolkit.php:90
+msgctxt "font style"
+msgid "Sans Serif"
+msgstr ""
+
+#: inc/customizer/config.php:55
+#: inc/customizer/kirki/includes/class-kirki-toolkit.php:91
+msgctxt "font style"
+msgid "Monospace"
+msgstr ""
+
+#: inc/customizer/kirki/includes/controls/repeater/class-kirki-controls-repeater-control.php:31
+msgid "Add Slide"
+msgstr ""
+
+#: inc/customizer/panel-colors.php:11
+msgid "Theme"
+msgstr ""
+
+#: inc/customizer/panel-colors.php:17
+msgid "Primary Color"
+msgstr ""
+
+#: inc/customizer/panel-colors.php:18
+msgid ""
+"Used as the background-color of the primary buttons, section title icons, "
+"pricing table headers and faded overlay backgrounds"
+msgstr ""
+
+#: inc/customizer/panel-colors.php:49
+msgid "Primary Color on Hover"
+msgstr ""
+
+#: inc/customizer/panel-colors.php:50
+msgid ""
+"Used as the background-color of the primary buttons and elements with "
+"primary color at hover state"
+msgstr ""
+
+#: inc/customizer/panel-colors.php:74 inc/customizer/panel-typography.php:89
+msgid "Body"
+msgstr ""
+
+#: inc/customizer/panel-colors.php:80
+msgid "Text Color"
+msgstr ""
+
+#: inc/customizer/panel-colors.php:100
+msgid "Bold Color"
+msgstr ""
+
+#: inc/customizer/panel-colors.php:120
+msgid "Code Color"
+msgstr ""
+
+#: inc/customizer/panel-colors.php:141 inc/customizer/panel-typography.php:225
+#: inc/template-tags.php:199
+msgid "Links"
+msgstr ""
+
+#: inc/customizer/panel-colors.php:147
+msgid "Link Color"
+msgstr ""
+
+#: inc/customizer/panel-colors.php:167
+msgid "Link Color on Hover"
+msgstr ""
+
+#: inc/customizer/panel-colors.php:188 inc/customizer/panel-layout.php:10
+msgid "Preloader"
+msgstr ""
+
+#: inc/customizer/panel-colors.php:212
+msgid "Progress Color"
+msgstr ""
+
+#: inc/customizer/panel-colors.php:238 inc/customizer/panel-typography.php:312
+msgid "Header Title"
+msgstr ""
+
+#: inc/customizer/panel-colors.php:244 inc/customizer/panel-colors.php:305
+msgid "Title Color"
+msgstr ""
+
+#: inc/customizer/panel-colors.php:262
+msgid "Title Background Color"
+msgstr ""
+
+#: inc/customizer/panel-colors.php:280
+msgid "Header Text Color"
+msgstr ""
+
+#: inc/customizer/panel-colors.php:299 inc/customizer/panel-typography.php:421
+msgid "Page Title"
+msgstr ""
+
+#: inc/customizer/panel-colors.php:331 inc/customizer/sections.php:61
+#: inc/customizer/sections.php:107 inc/customizer/sections.php:144
+msgid "Navbar"
+msgstr ""
+
+#: inc/customizer/panel-colors.php:356 inc/customizer/panel-typography.php:537
+msgid "Menu Links"
+msgstr ""
+
+#: inc/customizer/panel-colors.php:362
+msgid "Menu Link Color"
+msgstr ""
+
+#: inc/customizer/panel-colors.php:380
+msgid "Menu Link Color on Hover"
+msgstr ""
+
+#: inc/customizer/panel-colors.php:400 inc/customizer/panel-typography.php:615
+msgid "Sub-Menu Links"
+msgstr ""
+
+#: inc/customizer/panel-colors.php:406
+msgid "Submenu Link Color"
+msgstr ""
+
+#: inc/customizer/panel-colors.php:424
+msgid "Submenu Link Color on Hover"
+msgstr ""
+
+#: inc/customizer/panel-colors.php:443
+msgid "Site Title & Tagline"
+msgstr ""
+
+#: inc/customizer/panel-colors.php:449
+msgid "Site Title Color"
+msgstr ""
+
+#: inc/customizer/panel-colors.php:468
+msgid "Tagline Color"
+msgstr ""
+
+#: inc/customizer/panel-colors.php:493 inc/customizer/panel-layout.php:213
+msgid "Widgets Bar"
+msgstr ""
+
+#: inc/customizer/panel-colors.php:517
+msgid "Widget Title Color"
+msgstr ""
+
+#: inc/customizer/panel-colors.php:535
+msgid "Widget Link Color"
+msgstr ""
+
+#: inc/customizer/panel-colors.php:553
+msgid "Widget Link Color on Hover"
+msgstr ""
+
+#: inc/customizer/panel-colors.php:571
+msgid "Widget Text Color"
+msgstr ""
+
+#: inc/customizer/panel-colors.php:590 inc/customizer/panel-layout.php:228
+msgid "Copyright Bar"
+msgstr ""
+
+#: inc/customizer/panel-colors.php:614
+msgid "Copyright Text Color"
+msgstr ""
+
+#: inc/customizer/panel-colors.php:640 inc/customizer/sections.php:73
+#: inc/customizer/sections.php:119
+msgid "Headings"
+msgstr ""
+
+#: inc/customizer/panel-colors.php:646
+msgid "H1 Color"
+msgstr ""
+
+#: inc/customizer/panel-colors.php:666
+msgid "H2 Color"
+msgstr ""
+
+#: inc/customizer/panel-colors.php:686
+msgid "H3 Color"
+msgstr ""
+
+#: inc/customizer/panel-colors.php:706
+msgid "H4 Color"
+msgstr ""
+
+#: inc/customizer/panel-colors.php:726
+msgid "H5 Color"
+msgstr ""
+
+#: inc/customizer/panel-colors.php:746
+msgid "H6 Color"
+msgstr ""
+
+#: inc/customizer/panel-colors.php:773 inc/customizer/panel-typography.php:1729
+msgid "Quote"
+msgstr ""
+
+#: inc/customizer/panel-colors.php:779
+msgid "Quote Color"
+msgstr ""
+
+#: inc/customizer/panel-colors.php:799
+msgid "Cite Color"
+msgstr ""
+
+#: inc/customizer/panel-general.php:10
+msgid "Basic Logo"
+msgstr ""
+
+#: inc/customizer/panel-general.php:11
+msgid "Optional dimensions: 140px x 30px"
+msgstr ""
+
+#: inc/customizer/panel-general.php:19
+msgid "Retina Logo"
+msgstr ""
+
+#: inc/customizer/panel-general.php:20
+msgid "Double sized (2x) version of the Basic Logo."
+msgstr ""
+
+#: inc/customizer/panel-general.php:28
+msgid "Small Logo"
+msgstr ""
+
+#: inc/customizer/panel-general.php:29
+msgid "Optional dimensions: 80px x 80px"
+msgstr ""
+
+#: inc/customizer/panel-general.php:37
+msgid "Admin Logo"
+msgstr ""
+
+#: inc/customizer/panel-general.php:38
+msgid "Optional dimensions: 170px x 70px"
+msgstr ""
+
+#: inc/customizer/panel-general.php:54 inc/template-tags.php:289
+msgid "Behance"
+msgstr ""
+
+#: inc/customizer/panel-general.php:62 inc/template-tags.php:294
+msgid "BitBucket"
+msgstr ""
+
+#: inc/customizer/panel-general.php:70 inc/template-tags.php:259
+msgid "Dribbble"
+msgstr ""
+
+#: inc/customizer/panel-general.php:78 inc/template-tags.php:244
+msgid "Facebook"
+msgstr ""
+
+#: inc/customizer/panel-general.php:86 inc/template-tags.php:269
+msgid "Flickr"
+msgstr ""
+
+#: inc/customizer/panel-general.php:94 inc/template-tags.php:299
+msgid "GitHub"
+msgstr ""
+
+#: inc/customizer/panel-general.php:102 inc/template-tags.php:304
+msgid "Google+"
+msgstr ""
+
+#: inc/customizer/panel-general.php:110 inc/template-tags.php:274
+msgid "Instagram"
+msgstr ""
+
+#: inc/customizer/panel-general.php:118 inc/template-tags.php:254
+msgid "LinkedIn"
+msgstr ""
+
+#: inc/customizer/panel-general.php:126 inc/template-tags.php:279
+msgid "Pinterest"
+msgstr ""
+
+#: inc/customizer/panel-general.php:134 inc/template-tags.php:314
+msgid "Reddit"
+msgstr ""
+
+#: inc/customizer/panel-general.php:142 inc/template-tags.php:309
+msgid "Skype"
+msgstr ""
+
+#: inc/customizer/panel-general.php:150 inc/template-tags.php:319
+msgid "Tumblr"
+msgstr ""
+
+#: inc/customizer/panel-general.php:158 inc/template-tags.php:249
+msgid "Twitter"
+msgstr ""
+
+#: inc/customizer/panel-general.php:166 inc/template-tags.php:264
+msgid "Vimeo"
+msgstr ""
+
+#: inc/customizer/panel-general.php:174
+msgid "Youtube"
+msgstr ""
+
+#: inc/customizer/panel-layout.php:16
+msgid "Enable Page Preloader"
+msgstr ""
+
+#: inc/customizer/panel-layout.php:25
+msgid "Scrolltop"
+msgstr ""
+
+#: inc/customizer/panel-layout.php:31
+msgid "Enable Scrolltop Button"
+msgstr ""
+
+#: inc/customizer/panel-layout.php:45
+msgid "Home Header"
+msgstr ""
+
+#: inc/customizer/panel-layout.php:52
+msgid "Optional dimensions: 2000px x 900px"
+msgstr ""
+
+#: inc/customizer/panel-layout.php:71
+msgid "Page Header"
+msgstr ""
+
+#: inc/customizer/panel-layout.php:78
+msgid "Optional dimensions: 2000px x 200px"
+msgstr ""
+
+#: inc/customizer/panel-layout.php:108
+msgid "Sticky Navbar"
+msgstr ""
+
+#: inc/customizer/panel-layout.php:116
+msgid "Navbar Height"
+msgstr ""
+
+#: inc/customizer/panel-layout.php:142 inc/customizer/panel-typography.php:796
+msgid "Tagline"
+msgstr ""
+
+#: inc/customizer/panel-layout.php:148
+msgid "Display Tagline"
+msgstr ""
+
+#: inc/customizer/panel-layout.php:157
+msgid "Brand"
+msgstr ""
+
+#: inc/customizer/panel-layout.php:163
+msgid "Display as"
+msgstr ""
+
+#: inc/customizer/panel-layout.php:168
+msgid "Image (Basic Logo)"
+msgstr ""
+
+#: inc/customizer/panel-layout.php:169
+msgid "Text (Site Title)"
+msgstr ""
+
+#: inc/customizer/panel-layout.php:182
+msgid "Subscribe Bar"
+msgstr ""
+
+#: inc/customizer/panel-layout.php:188 inc/customizer/panel-pages.php:51
+#: inc/customizer/panel-pages.php:181
+msgid "Display Footer Subscribe"
+msgstr ""
+
+#: inc/customizer/panel-layout.php:196
+msgid "Subscribe Title"
+msgstr ""
+
+#: inc/customizer/panel-layout.php:198
+msgid "Subscribe to our mailing list"
+msgstr ""
+
+#: inc/customizer/panel-layout.php:204
+msgid "MailChimp Code"
+msgstr ""
+
+#: inc/customizer/panel-layout.php:219 inc/customizer/panel-pages.php:59
+#: inc/customizer/panel-pages.php:189
+msgid "Display Footer Widgets"
+msgstr ""
+
+#: inc/customizer/panel-layout.php:234
+msgid "Display Footer Copyright"
+msgstr ""
+
+#: inc/customizer/panel-layout.php:242
+msgid "Display Social Icons"
+msgstr ""
+
+#: inc/customizer/panel-layout.php:243
+msgid ""
+"If enabled, it will show the social network icons set at Customizer > "
+"General > Social Links"
+msgstr ""
+
+#: inc/customizer/panel-layout.php:251 inc/customizer/panel-typography.php:1638
+msgid "Copyright Text"
+msgstr ""
+
+#: inc/customizer/panel-layout.php:253
+msgid "2015 FlatBook by ErikTailor - All rights reserved."
+msgstr ""
+
+#: inc/customizer/panel-pages.php:11 inc/customizer/panel-pages.php:129
+#: inc/customizer/panel-pages.php:235
+msgid "Page Layout"
+msgstr ""
+
+#: inc/customizer/panel-pages.php:35 inc/customizer/panel-pages.php:153
+msgid "Display Page Header"
+msgstr ""
+
+#: inc/customizer/panel-pages.php:43 inc/customizer/panel-pages.php:173
+msgid "Display Blog Sidebar"
+msgstr ""
+
+#: inc/customizer/panel-pages.php:69 inc/customizer/panel-pages.php:198
+msgid "Post Layout"
+msgstr ""
+
+#: inc/customizer/panel-pages.php:75
+msgid "Display Post Header"
+msgstr ""
+
+#: inc/customizer/panel-pages.php:83
+msgid "Text Alignment"
+msgstr ""
+
+#: inc/customizer/panel-pages.php:88 inc/customizer/panel-pages.php:209
+msgid "Left"
+msgstr ""
+
+#: inc/customizer/panel-pages.php:90 inc/customizer/panel-pages.php:211
+msgid "Right"
+msgstr ""
+
+#: inc/customizer/panel-pages.php:91 inc/customizer/panel-pages.php:212
+msgid "Justify"
+msgstr ""
+
+#: inc/customizer/panel-pages.php:107
+msgid "Read More Text"
+msgstr ""
+
+#: inc/customizer/panel-pages.php:109
+msgid "Continue Reading"
+msgstr ""
+
+#: inc/customizer/panel-pages.php:115
+msgid "Display Post Footer"
+msgstr ""
+
+#: inc/customizer/panel-pages.php:160
+msgid "Page Header Title"
+msgstr ""
+
+#: inc/customizer/panel-pages.php:166
+msgid "Shows the blog page title"
+msgstr ""
+
+#: inc/customizer/panel-pages.php:167
+msgid "Shows the single post title"
+msgstr ""
+
+#: inc/customizer/panel-pages.php:204
+msgid "Post Content Align"
+msgstr ""
+
+#: inc/customizer/panel-pages.php:262
+msgid "404 Content"
+msgstr ""
+
+#: inc/customizer/panel-pages.php:268
+msgid "Heading"
+msgstr ""
+
+#: inc/customizer/panel-pages.php:270
+msgid "Oooops..."
+msgstr ""
+
+#: inc/customizer/panel-pages.php:276
+msgid "Paragraph"
+msgstr ""
+
+#: inc/customizer/panel-pages.php:278
+msgid "Sorry, the page you are looking for does not exist.."
+msgstr ""
+
+#: inc/customizer/panel-pages.php:285
+msgid "Home Link Text"
+msgstr ""
+
+#: inc/customizer/panel-pages.php:287
+msgid "To Homepage"
+msgstr ""
+
+#: inc/customizer/panel-pages.php:294
+msgid "Custom Link Text"
+msgstr ""
+
+#: inc/customizer/panel-pages.php:296
+msgid "Purchase Now"
+msgstr ""
+
+#: inc/customizer/panel-pages.php:303
+msgid "Custom Link Url"
+msgstr ""
+
+#: inc/customizer/panel-typography.php:10
+msgid "Base Font Family"
+msgstr ""
+
+#: inc/customizer/panel-typography.php:29
+msgid "Headings Font Family"
+msgstr ""
+
+#: inc/customizer/panel-typography.php:48
+msgid "Quotes Font Family"
+msgstr ""
+
+#: inc/customizer/panel-typography.php:67
+msgid "Font Subsets"
+msgstr ""
+
+#: inc/customizer/panel-typography.php:95
+#: inc/customizer/panel-typography.php:318
+#: inc/customizer/panel-typography.php:427
+#: inc/customizer/panel-typography.php:543
+#: inc/customizer/panel-typography.php:621
+#: inc/customizer/panel-typography.php:699
+#: inc/customizer/panel-typography.php:802
+#: inc/customizer/panel-typography.php:886
+#: inc/customizer/panel-typography.php:997
+#: inc/customizer/panel-typography.php:1108
+#: inc/customizer/panel-typography.php:1219
+#: inc/customizer/panel-typography.php:1330
+#: inc/customizer/panel-typography.php:1441
+#: inc/customizer/panel-typography.php:1560
+#: inc/customizer/panel-typography.php:1644
+#: inc/customizer/panel-typography.php:1735
+#: inc/customizer/panel-typography.php:1819
+#: inc/customizer/panel-typography.php:1909
+#: inc/customizer/panel-typography.php:1943
+#: inc/customizer/panel-typography.php:1977
+#: inc/customizer/panel-typography.php:2011
+#: inc/customizer/panel-typography.php:2045
+msgid "Font Size"
+msgstr ""
+
+#: inc/customizer/panel-typography.php:120
+#: inc/customizer/panel-typography.php:343
+#: inc/customizer/panel-typography.php:452
+#: inc/customizer/panel-typography.php:724
+#: inc/customizer/panel-typography.php:913
+#: inc/customizer/panel-typography.php:1024
+#: inc/customizer/panel-typography.php:1135
+#: inc/customizer/panel-typography.php:1246
+#: inc/customizer/panel-typography.php:1357
+#: inc/customizer/panel-typography.php:1468
+msgid "Letter Spacing"
+msgstr ""
+
+#: inc/customizer/panel-typography.php:147
+msgid "Line Height"
+msgstr ""
+
+#: inc/customizer/panel-typography.php:174
+#: inc/customizer/panel-typography.php:231
+#: inc/customizer/panel-typography.php:370
+#: inc/customizer/panel-typography.php:479
+#: inc/customizer/panel-typography.php:568
+#: inc/customizer/panel-typography.php:646
+#: inc/customizer/panel-typography.php:749
+#: inc/customizer/panel-typography.php:940
+#: inc/customizer/panel-typography.php:1051
+#: inc/customizer/panel-typography.php:1162
+#: inc/customizer/panel-typography.php:1273
+#: inc/customizer/panel-typography.php:1384
+#: inc/customizer/panel-typography.php:1495
+#: inc/customizer/panel-typography.php:1587
+#: inc/customizer/panel-typography.php:1671
+#: inc/customizer/panel-typography.php:1762
+#: inc/customizer/panel-typography.php:1846
+msgid "Font Weight"
+msgstr ""
+
+#: inc/customizer/panel-typography.php:179
+#: inc/customizer/panel-typography.php:375
+#: inc/customizer/panel-typography.php:484
+#: inc/customizer/panel-typography.php:573
+#: inc/customizer/panel-typography.php:651
+#: inc/customizer/panel-typography.php:754
+#: inc/customizer/panel-typography.php:945
+#: inc/customizer/panel-typography.php:1056
+#: inc/customizer/panel-typography.php:1167
+#: inc/customizer/panel-typography.php:1278
+#: inc/customizer/panel-typography.php:1389
+#: inc/customizer/panel-typography.php:1500
+#: inc/customizer/panel-typography.php:1592
+#: inc/customizer/panel-typography.php:1676
+#: inc/customizer/panel-typography.php:1767
+#: inc/customizer/panel-typography.php:1851
+msgid "Light"
+msgstr ""
+
+#: inc/customizer/panel-typography.php:180
+#: inc/customizer/panel-typography.php:236
+#: inc/customizer/panel-typography.php:376
+#: inc/customizer/panel-typography.php:485
+#: inc/customizer/panel-typography.php:574
+#: inc/customizer/panel-typography.php:652
+#: inc/customizer/panel-typography.php:755
+#: inc/customizer/panel-typography.php:832
+#: inc/customizer/panel-typography.php:946
+#: inc/customizer/panel-typography.php:1057
+#: inc/customizer/panel-typography.php:1168
+#: inc/customizer/panel-typography.php:1279
+#: inc/customizer/panel-typography.php:1390
+#: inc/customizer/panel-typography.php:1501
+#: inc/customizer/panel-typography.php:1593
+#: inc/customizer/panel-typography.php:1677
+#: inc/customizer/panel-typography.php:1768
+#: inc/customizer/panel-typography.php:1792
+#: inc/customizer/panel-typography.php:1852
+#: inc/customizer/panel-typography.php:1876
+msgid "Normal"
+msgstr ""
+
+#: inc/customizer/panel-typography.php:181
+#: inc/customizer/panel-typography.php:237
+#: inc/customizer/panel-typography.php:377
+#: inc/customizer/panel-typography.php:486
+#: inc/customizer/panel-typography.php:575
+#: inc/customizer/panel-typography.php:653
+#: inc/customizer/panel-typography.php:756
+#: inc/customizer/panel-typography.php:947
+#: inc/customizer/panel-typography.php:1058
+#: inc/customizer/panel-typography.php:1169
+#: inc/customizer/panel-typography.php:1280
+#: inc/customizer/panel-typography.php:1391
+#: inc/customizer/panel-typography.php:1502
+#: inc/customizer/panel-typography.php:1594
+#: inc/customizer/panel-typography.php:1678
+#: inc/customizer/panel-typography.php:1769
+#: inc/customizer/panel-typography.php:1853
+msgid "Bold"
+msgstr ""
+
+#: inc/customizer/panel-typography.php:199
+#: inc/customizer/panel-typography.php:395
+#: inc/customizer/panel-typography.php:504
+#: inc/customizer/panel-typography.php:591
+#: inc/customizer/panel-typography.php:669
+#: inc/customizer/panel-typography.php:772
+#: inc/customizer/panel-typography.php:849
+#: inc/customizer/panel-typography.php:965
+#: inc/customizer/panel-typography.php:1076
+#: inc/customizer/panel-typography.php:1187
+#: inc/customizer/panel-typography.php:1298
+#: inc/customizer/panel-typography.php:1409
+#: inc/customizer/panel-typography.php:1520
+#: inc/customizer/panel-typography.php:1612
+#: inc/customizer/panel-typography.php:1696
+msgid "Text Transform"
+msgstr ""
+
+#: inc/customizer/panel-typography.php:205
+#: inc/customizer/panel-typography.php:401
+#: inc/customizer/panel-typography.php:510
+#: inc/customizer/panel-typography.php:598
+#: inc/customizer/panel-typography.php:676
+#: inc/customizer/panel-typography.php:778
+#: inc/customizer/panel-typography.php:855
+#: inc/customizer/panel-typography.php:971
+#: inc/customizer/panel-typography.php:1082
+#: inc/customizer/panel-typography.php:1193
+#: inc/customizer/panel-typography.php:1304
+#: inc/customizer/panel-typography.php:1415
+#: inc/customizer/panel-typography.php:1526
+#: inc/customizer/panel-typography.php:1619
+#: inc/customizer/panel-typography.php:1703
+msgid "Uppercase"
+msgstr ""
+
+#: inc/customizer/panel-typography.php:206
+#: inc/customizer/panel-typography.php:402
+#: inc/customizer/panel-typography.php:511
+#: inc/customizer/panel-typography.php:597
+#: inc/customizer/panel-typography.php:675
+#: inc/customizer/panel-typography.php:779
+#: inc/customizer/panel-typography.php:856
+#: inc/customizer/panel-typography.php:972
+#: inc/customizer/panel-typography.php:1083
+#: inc/customizer/panel-typography.php:1194
+#: inc/customizer/panel-typography.php:1305
+#: inc/customizer/panel-typography.php:1416
+#: inc/customizer/panel-typography.php:1527
+#: inc/customizer/panel-typography.php:1618
+#: inc/customizer/panel-typography.php:1702
+msgid "Lowercase"
+msgstr ""
+
+#: inc/customizer/panel-typography.php:255
+msgid "Text Decoration"
+msgstr ""
+
+#: inc/customizer/panel-typography.php:261
+#: inc/customizer/panel-typography.php:285
+msgid "Underline"
+msgstr ""
+
+#: inc/customizer/panel-typography.php:279
+msgid "Text Decoration on Hover"
+msgstr ""
+
+#: inc/customizer/panel-typography.php:693
+msgid "Site Title"
+msgstr ""
+
+#: inc/customizer/panel-typography.php:827
+#: inc/customizer/panel-typography.php:1787
+#: inc/customizer/panel-typography.php:1871
+msgid "Font Style"
+msgstr ""
+
+#: inc/customizer/panel-typography.php:833
+#: inc/customizer/panel-typography.php:1793
+#: inc/customizer/panel-typography.php:1877
+msgid "Italic"
+msgstr ""
+
+#: inc/customizer/panel-typography.php:880
+msgid "H1"
+msgstr ""
+
+#: inc/customizer/panel-typography.php:991
+msgid "H2"
+msgstr ""
+
+#: inc/customizer/panel-typography.php:1102
+msgid "H3"
+msgstr ""
+
+#: inc/customizer/panel-typography.php:1213
+msgid "H4"
+msgstr ""
+
+#: inc/customizer/panel-typography.php:1324
+msgid "H5"
+msgstr ""
+
+#: inc/customizer/panel-typography.php:1435
+msgid "H6"
+msgstr ""
+
+#: inc/customizer/panel-typography.php:1554
+msgid "Widget Title"
+msgstr ""
+
+#: inc/customizer/panel-typography.php:1813
+msgid "Cite"
+msgstr ""
+
+#: inc/customizer/panel-typography.php:1903
+msgid "Xl Button"
+msgstr ""
+
+#: inc/customizer/panel-typography.php:1937
+msgid "Lg Button"
+msgstr ""
+
+#: inc/customizer/panel-typography.php:1971
+msgid "Md Button"
+msgstr ""
+
+#: inc/customizer/panel-typography.php:2005
+msgid "Sm Button"
+msgstr ""
+
+#: inc/customizer/panel-typography.php:2039
+msgid "Xs Button"
+msgstr ""
+
+#: inc/customizer/panels.php:10
+msgid "General"
+msgstr ""
+
+#: inc/customizer/panels.php:15
+msgid "Menus"
+msgstr ""
+
+#: inc/customizer/panels.php:20
+msgid "Typography"
+msgstr ""
+
+#: inc/customizer/panels.php:25
+msgid "Colors"
+msgstr ""
+
+#: inc/customizer/panels.php:35
+msgid "Pages"
+msgstr ""
+
+#: inc/customizer/sections.php:13
+msgid "Site Identity"
+msgstr ""
+
+#: inc/customizer/sections.php:19
+msgid "Site Logos"
+msgstr ""
+
+#: inc/customizer/sections.php:25
+msgid "Social Links"
+msgstr ""
+
+#: inc/customizer/sections.php:26
+msgid ""
+"Enter the social network profile URL for each service below, that you would "
+"like to showcase."
+msgstr ""
+
+#: inc/customizer/sections.php:32
+msgid "Static Front Page"
+msgstr ""
+
+#: inc/customizer/sections.php:42
+msgid "Fonts"
+msgstr ""
+
+#: inc/customizer/sections.php:43
+msgid ""
+"In this section, you can select up to 3 different font families from the "
+"Google Fonts collection to load and enqueue in the theme for specific "
+"elements and define the character subset to use."
+msgstr ""
+
+#: inc/customizer/sections.php:49 inc/customizer/sections.php:95
+#: inc/customizer/sections.php:132
+msgid "Global"
+msgstr ""
+
+#: inc/customizer/sections.php:55 inc/customizer/sections.php:101
+#: inc/customizer/sections.php:138
+msgid "Header"
+msgstr ""
+
+#: inc/customizer/sections.php:67 inc/customizer/sections.php:113
+#: inc/customizer/sections.php:156
+msgid "Footer"
+msgstr ""
+
+#: inc/customizer/sections.php:79
+msgid "Blockquotes"
+msgstr ""
+
+#: inc/customizer/sections.php:85
+msgid "Buttons"
+msgstr ""
+
+#: inc/customizer/sections.php:166
+msgid "Blog (Posts Page)"
+msgstr ""
+
+#: inc/customizer/sections.php:172
+msgid "Single Post"
+msgstr ""
+
+#: inc/customizer/sections.php:178
+msgid "404 Error"
+msgstr ""
+
+#: inc/customizer/sections.php:188 inc/customizer/sections.php:195
+msgid "Custom Css"
+msgstr ""
+
+#: inc/customizer/sections.php:196
+msgid ""
+"Add your additional custom Css rules below. Note that these rules will "
+"overwrite the default theme styles."
+msgstr ""
+
+#: inc/template-tags.php:26
+msgid "standard"
+msgstr ""
+
+#: inc/template-tags.php:40
+msgid " Comment"
+msgstr ""
+
+#: inc/template-tags.php:96
+#, php-format
+msgid "Page %1$s of %2$s"
+msgstr ""
+
+#: inc/template-tags.php:156
+msgid "Reply"
+msgstr ""
+
+#: inc/template-tags.php:179
+msgid "Archive for category: "
+msgstr ""
+
+#: inc/template-tags.php:181
+msgid "Archive for tag: "
+msgstr ""
+
+#: inc/template-tags.php:183
+#, php-format
+msgid "Author: %s"
+msgstr ""
+
+#: inc/template-tags.php:185
+#, php-format
+msgid "Day: %s"
+msgstr ""
+
+#: inc/template-tags.php:187
+#, php-format
+msgid "Month: %s"
+msgstr ""
+
+#: inc/template-tags.php:187
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr ""
+
+#: inc/template-tags.php:189
+#, php-format
+msgid "Year: %s"
+msgstr ""
+
+#: inc/template-tags.php:189
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+#: inc/template-tags.php:191
+msgid "Galleries"
+msgstr ""
+
+#: inc/template-tags.php:193
+msgid "Images"
+msgstr ""
+
+#: inc/template-tags.php:195
+msgid "Videos"
+msgstr ""
+
+#: inc/template-tags.php:197
+msgid "Quotes"
+msgstr ""
+
+#: inc/template-tags.php:213
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: inc/template-tags.php:227
+msgid "Blog Default"
+msgstr ""
+
+#: inc/template-tags.php:284
+msgid "YouTube"
+msgstr ""
+
+#: partials/content-gallery.php:18 partials/content-image.php:20
+#: partials/content-link.php:18 partials/content-quote.php:18
+#: partials/content-video.php:18 partials/content.php:16
+msgid "Featured"
+msgstr ""
+
+#: partials/content-gallery.php:41 partials/content-image.php:39
+#: partials/content-link.php:38 partials/content-quote.php:38
+#: partials/content-video.php:41 partials/content.php:35
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: partials/content-none.php:18
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""

@@ -1,0 +1,69 @@
+.acf-table {
+	table-layout: inherit;
+}
+tr.acf-row td.collapser,
+tr.acf-row th.collapser {
+	width:25px;
+	padding:0;
+	background:#f4f4f4;
+	vertical-align:top;
+}
+.acf-row td.collapser a.collapse {
+	font-size:25px;
+	color:#666;
+}
+
+.acf-row .dashicons-arrow-down {
+	display:initial;
+}
+.acf-row .dashicons-arrow-right {
+	display:none;
+}
+.acf-row.collapsed .dashicons-arrow-down {
+	display:none;
+}
+.acf-row.collapsed .dashicons-arrow-right {
+	display:initial;
+}
+
+.acf-row.collapsed td.acf-fields {
+	padding:0.5em !important;
+} 
+.acf-row.collapsed td.acf-fields *,
+.acf-row.collapsed td.acf-table-wrap * {
+	display:none;
+}
+
+.acf-row td.acf-fields .acf-collapse-placeholder,
+.acf-row td.acf-table-wrap .acf-collapse-placeholder {
+	display:none;
+}
+.acf-row.collapsed td.acf-table-wrap {
+	padding:0.5em;
+}
+.acf-row.collapsed td.acf-fields .acf-collapse-placeholder {
+}
+.acf-row.collapsed td.acf-fields .acf-collapse-placeholder,
+.acf-row.collapsed td.acf-fields .acf-collapse-placeholder *,
+.acf-row.collapsed td.acf-table-wrap .acf-collapse-placeholder,
+.acf-row.collapsed td.acf-table-wrap .acf-collapse-placeholder * {
+	display:initial;
+}
+.acf-collapse-placeholder .row-title {
+	display:inline-block;
+	font-weight:bold;
+	vertical-align:top;
+	margin-right:1em;
+}
+.acf-collapse-placeholder .row-title label {
+	display:inline-block;
+	font-weight:normal;
+	vertical-align:top;
+	margin-right:0.25em;
+	color:#aaa;
+}
+
+
+.acf-row td.order {
+	position:relative;
+}

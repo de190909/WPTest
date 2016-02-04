@@ -1,0 +1,144 @@
+/* --------------------------------------------------
+ ## BASE: TYPOGRAPHY
+-------------------------------------------------- */
+
+/* Word wrap
+---------------------------- */
+.nowrap { white-space: nowrap; }
+
+/* Headings
+---------------------------- */
+h1, .h1 { letter-spacing: -1px; }
+
+h2, .h2 { letter-spacing: -0.5px; }
+
+/* Heading links
+---------------------------- */
+h1, .h1, h2, .h2, h3, .h3, h4, .h4, h5, .h5, h6, .h6 {
+	> a {
+		@include transition(0.25s);
+		&:hover { text-decoration: none; }
+	}
+}
+
+/* Lead
+---------------------------- */
+p.lead {
+	font-size: 1.15em;
+	font-weight: $font-weight-base;
+	line-height: $line-height-base;
+	margin-bottom: inherit;
+}
+
+/* Small
+---------------------------- */
+small, .small {
+	font-size: 0.85em;
+	font-weight: $font-weight-base;
+	line-height: $line-height-base;
+}
+
+/* Blockquote
+---------------------------- */
+blockquote {
+	font-family: $font-family-serif;
+	font-size: $font-size-large;	
+	font-style: italic;
+	color: $text-muted;
+	cite {
+		font-family: $font-family-sans-serif;
+		font-style: normal;
+		font-size: $font-size-base;
+		display: block;
+	}
+	&.text-center { border: 0; }
+	&.text-right { border-left: 0; border-right: 5px solid #eee; }
+}
+
+/* Dropcaps
+---------------------------- */
+.dropcap {
+	.first-letter {
+		float: left;
+		font-family: $headings-font-family;
+		font-size: $font-size-h3;
+		width: 45px;		
+		height: 45px;
+		line-height: 45px;
+		margin: 10px 10px 0 0;
+		text-align: center;
+		vertical-align: middle;
+	}
+	&.dropcap-round {
+		.first-letter { border-radius: 50%; }
+	}
+	&.dropcap-basic {
+		.first-letter { border-radius: $border-radius-base; }		
+	}	
+	&.dropcap-plain { 
+		background-color: transparent;
+		.first-letter { font-size: $font-size-h2; }		 
+	}
+}
+
+/* Header title
+---------------------------- */
+.header-title {
+	font-size: $font-size-h2;
+	.highlight {
+		display: inline-block;
+		color: $text-white;
+		background-color: rgba($gray-base, 0.25);
+		padding: $padding-base-vertical*2 $padding-small-horizontal*2;
+		margin: 5px 0;
+		white-space: nowrap;			
+		@include breakpoint(xxs) { padding: 10px 14px; }			
+	}
+	.emphasize {
+		background-color: rgba($gray-base, 0.15);
+		border-radius: $border-radius-large;
+		padding: $padding-base-vertical $padding-base-horizontal;
+	}	
+	@include breakpoint(lg)  { font-size: $font-size-h1; }
+	@include breakpoint(xs)  { font-size: $font-size-h2; }
+	@include breakpoint(xxs) { font-size: $font-size-h3; }								
+}
+
+/* Header desc
+---------------------------- */
+.header-desc {
+	@extend .text-white;
+	margin-bottom: $padding-section-tiny;
+}
+
+/* Page title
+---------------------------- */
+.page-title {
+	color: $color-white;
+	margin: 30px 0;
+	font-size: 46px;
+	letter-spacing: -2px;
+	small {
+		display: block;
+		font-size: $font-size-large;
+		color: $text-white;
+		font-family: $font-family-sans-serif;
+		letter-spacing: -0.3px;
+		padding-bottom: 10px;
+	}
+	@include breakpoint(xs) { text-align: left; }
+}
+
+/* Size helper
+---------------------------- */
+.font-xl { font-size: $font-size-h1*1.3; }
+
+.text-large { font-size: $font-size-large; }
+
+.text-small { font-size: $font-size-small; }
+
+/* Emphasizing
+---------------------------- */
+.strong, strong  {
+	color: $text-dark;
+}
